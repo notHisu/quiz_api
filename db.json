@@ -1,301 +1,2488 @@
 {
-  "questions": [
+  "chuyende1": [
     {
-      "question": "Bao nhiêu dân tộc cư trú có ở tỉnh Lâm Đồng?",
-      "answers": {
-        "A) 7": false,
-        "B) 8": true,
-        "C) 9": false,
-        "D) 10": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Theo bạn, yếu tố nào đã thúc đẩy thực dân Pháp tiến hành xâm lược và khám phá Lâm Đồng từ năm 1893?",
+      "correctAnswers": [
+        "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất."
+      ],
+      "incorrectAnswers": [
+        "Thời kỳ Cách mạng tháng Tám.",
+        "Sự phản kháng dữ dội của nhân dân.",
+        "Sự giáo dục và tôn trọng văn hóa bản địa."
+      ]
     },
     {
-      "question": "Dân tộc gốc Tây Nguyên chiếm bao nhiêu phần trăm dân số tỉnh Lâm Đồng?",
-      "answers": {
-        "A) 12.5%": false,
-        "B) 15%": false,
-        "C) 17.5%": false,
-        "D) 19.23%": true
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleResponses",
+      "question": "Năm 1893, ai được giao nhiệm vụ thăm dò tuyến đường từ Sài Gòn lên Cao nguyên Trung phần, dẫn đến việc phát hiện cao nguyên đẹp như Lâm Viên?",
+      "correctAnswers": ["Alexandre Yersin", "Bác sĩ A.Yersin"],
+      "incorrectAnswers": ["Paul Doumer", "Phan Bội Châu"]
     },
     {
-      "question": "Ở đâu tập trung nhiều người dân tộc Cơ Ho?",
-      "answers": {
-        "A) Đà Lạt": false,
-        "B) Di Linh": true,
-        "C) Đức Trọng": false,
-        "D) Lâm Hà": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleResponses",
+      "question": "Các thay đổi chính trị và kinh tế chính ở Lâm Đồng dưới thời thuộc địa Pháp từ 1893 đến 1945 bao gồm những điều gì?",
+      "correctAnswers": [
+        "Thành lập thành phố Đà Lạt.",
+        "Khai thác tài nguyên tự nhiên."
+      ],
+      "incorrectAnswers": ["Thành lập tỉnh Lâm Viên", "Xây dựng tỉnh Djiring"]
     },
     {
-      "question": "Nền kinh tế chính của người Cơ Ho là gì?",
-      "answers": {
-        "A) Đánh cá": false,
-        "B) Chăn nuôi gia súc": false,
-        "C) Trồng lúa, bắp, sắn": true,
-        "D) Làm gốm thô": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "picture",
+      "path": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Petit-Yersin.jpg",
+      "question": "Hãy cho biết đây là ai?",
+      "correctAnswers": ["Bác sĩ A.Yersin"],
+      "incorrectAnswers": [
+        "Paul Doumer",
+        "Galileo Galilei",
+        "Rosalind Franklin"
+      ]
     },
     {
-      "question": "Ngôn ngữ của người Cơ Ho thuộc nhóm ngôn ngữ nào?",
-      "answers": {
-        "A) Nam Á": false,
-        "B) Môn – Khmer": true,
-        "C) Nam Đảo": false,
-        "D) Mông Cổ": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "video",
+      "path": "assets/videos/VideoDalatPalace.mp4",
+      "question": "Đây là khách sạn nào được hoàn thành xây dựng và mở năm 1922?",
+      "correctAnswers": ["Dalat Palace"],
+      "incorrectAnswers": ["Dalat Blanc", "Colline", "Goldient Boutique"]
     },
     {
-      "question": "Nơi nào có nhiều người dân tộc Mạ?",
-      "answers": {
-        "A) Đà Lạt": false,
-        "B) Đam Rông": true,
-        "C) Lạc Dương": false,
-        "D) Lâm Hà": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "audio",
+      "path": "assets/audio/CauHoiAudioChuyenDe1.mp3",
+      "question": "Bác sĩ Yersin đã khám phá ra cao nguyên nào",
+      "correctAnswers": ["Cao nguyên Lâm Viên"],
+      "incorrectAnswers": [
+        "Cao nguyên Mơ Nông",
+        "Cao nguyên Đắk Lắk",
+        "Cao nguyên Kon Tum"
+      ]
     },
     {
-      "question": "Trong nền kinh tế của người Mạ, loại rẫy chính là gì?",
-      "answers": {
-        "A) Rẫy đóng vai trò chủ yếu": false,
-        "B) Rẫy đa canh": true,
-        "C) Rẫy lúa": false,
-        "D) Rẫy bắp": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Thực dân Pháp tiến hành khai phá Lâm Đồng vì lý do gì?",
+      "correctAnswers": [
+        "Phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất."
+      ],
+      "incorrectAnswers": [
+        "Thời kỳ Cách mạng tháng Tám.",
+        "Sự phản kháng dữ dội của nhân dân.",
+        "Sự giáo dục và tôn trọng văn hóa bản địa."
+      ]
     },
     {
-      "question": "Ngôn ngữ của người Mạ thuộc nhóm ngôn ngữ nào?",
-      "answers": {
-        "A) Mông Cổ": false,
-        "B) Môn – Khmer": true,
-        "C) Nam Á": false,
-        "D) Nam Đảo": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleResponses",
+      "question": "Năm 1893, ai được giao nhiệm vụ khám phá cao nguyên Lâm Viên?",
+      "correctAnswers": ["Alexandre Yersin", "Bác sĩ A. Yersin"],
+      "incorrectAnswers": ["Paul Doumer", "Phan Bội Châu"]
     },
     {
-      "question": "Dân tộc Chu Ru tập trung chủ yếu ở đâu?",
-      "answers": {
-        "A) Đà Lạt": false,
-        "B) Đức Trọng": true,
-        "C) Đơn Dương": false,
-        "D) Di Linh": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Thành phố Đà Lạt được quy hoạch và triển khai dự án vào năm nào?",
+      "correctAnswers": ["1899"],
+      "incorrectAnswers": ["1905", "1916", "1920"]
     },
     {
-      "question": "Đối với người Chu Ru, loại ruộng sình và ruộng khô là gì?",
-      "answers": {
-        "A) Loại ruộng nước": false,
-        "B) Loại ruộng đất canh tác": false,
-        "C) Loại ruộng nông nghiệp": false,
-        "D) Loại ruộng chăn nuôi": true
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Tại sao Đà Lạt được lựa chọn làm địa điểm xây dựng trạm nghỉ dưỡng của Pháp?",
+      "correctAnswers": ["Khí hậu tương tự châu Âu."],
+      "incorrectAnswers": [
+        "Đất đai phong phú.",
+        "Sự yên bình của vùng đất.",
+        "Gần biển Trung Kỳ."
+      ]
     },
     {
-      "question": "Đối với người Chu Ru, hoạt động chăn nuôi chủ yếu bao gồm gì?",
-      "answers": {
-        "A) Gia súc": true,
-        "B) Gia cầm": false,
-        "C) Cá": false,
-        "D) Gấu": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Địa điểm nào trở thành tỉnh lị Đà Lạt vào năm 1916?",
+      "correctAnswers": ["Tỉnh Lâm Viên"],
+      "incorrectAnswers": [
+        "Tỉnh Đồng Nai Thượng",
+        "Tỉnh Bình Thuận",
+        "Đơn vị hành chính trực thuộc Toàn quyền Đông Dương"
+      ]
     },
     {
-      "question": "Trong nghệ thuật dân gian, người Cơ Ho sử dụng những nhạc cụ nào?",
-      "answers": {
-        "A) Trống": false,
-        "B) Kèn": false,
-        "C) Đàn": false,
-        "D) Cồng chiêng": true
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Tỉnh Đồng Nai Thượng bị bãi bỏ năm nào?",
+      "correctAnswers": ["1905"],
+      "incorrectAnswers": ["1916", "1920", "1941"]
     },
     {
-      "question": "Trong nghệ thuật dân gian, người Mạ sử dụng những nhạc cụ gì?",
-      "answers": {
-        "A) Đàn": false,
-        "B) Trống": true,
-        "C) Kèn": false,
-        "D) Cồng chiêng": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Đâu là đơn vị hành chính trực thuộc Toàn quyền Đông Dương vào năm 1920?",
+      "correctAnswers": ["Đồng Nai Thượng"],
+      "incorrectAnswers": [
+        "Đà Lạt",
+        "Đơn vị hành chính trực thuộc Toàn quyền Đông Dương",
+        "Djiring"
+      ]
     },
     {
-      "question": "Trong nghệ thuật dân gian, người Chu Ru sử dụng những nhạc cụ gì?",
-      "answers": {
-        "A) Đàn": false,
-        "B) Kèn": false,
-        "C) Trống": true,
-        "D) Sáo": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Tại sao việc quản lý vùng Lâm Đồng dưới thời Pháp thuộc được thực hiện?",
+      "correctAnswers": ["Cơ sở hạ tầng quân sự và an ninh."],
+      "incorrectAnswers": [
+        "Cơ sở hạ tầng kỹ thuật và khoa học.",
+        "Cơ sở hạ tầng dân sinh và dân cư địa phương.",
+        "Cơ sở hạ tầng văn hóa và giáo dục."
+      ]
     },
     {
-      "question": "Loại trang phục truyền thống nào phổ biến trong người Cơ Ho?",
-      "answers": {
-        "A) Áo dài": false,
-        "B) Áo chui đầu": true,
-        "C) Áo sơ mi": false,
-        "D) Áo khoác": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Đâu là thông tin sai về việc quản lí vùng Lâm Đồng dưới thời Pháp thuộc?",
+      "correctAnswers": [
+        "Từ năm 1928, tỉnh lị tỉnh Đồng Nai Thượng chuyển về Đà Lạt."
+      ],
+      "incorrectAnswers": [
+        "Đà Lạt trở thành tỉnh lị của tỉnh Lâm Viên từ năm 1916.",
+        "Đồng Nai Thượng được tái lập năm 1920 với tỉnh lị tại Djiring.",
+        "Tỉnh Lâm Viên được lập lại với tỉnh lị đặt tại Djiring vào năm 1941."
+      ]
     },
     {
-      "question": "Loại trang phục truyền thống nào phổ biến trong người Mạ?",
-      "answers": {
-        "A) Áo dài": false,
-        "B) Áo chui đầu": false,
-        "C) Áo sơ mi": true,
-        "D) Áo khoác": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Việc chia tách, sáp nhập tỉnh Đồng Nai Thượng và Lâm Viên làm thay đổi gì?",
+      "correctAnswers": ["Tất cả các phương án trên đều đúng."],
+      "incorrectAnswers": [
+        "Tỉnh Đồng Nai Thượng có đại lí ở Djiring.",
+        "Tỉnh Lâm Viên có đại lí ở Đà Lạt.",
+        "Đà Lạt trở thành tỉnh lị của tỉnh Lâm Viên."
+      ]
     },
     {
-      "question": "Loại trang phục truyền thống nào phổ biến trong người Chu Ru?",
-      "answers": {
-        "A) Áo dài": false,
-        "B) Áo chui đầu": false,
-        "C) Áo sơ mi": true,
-        "D) Áo khoác": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Thực dân Pháp thúc đẩy khai thác tài nguyên ở hai tỉnh Lâm Viên, Đồng Nai Thượng bằng cách nào?",
+      "correctAnswers": ["Chiếm đoạt đất canh tác để lập đồn điền."],
+      "incorrectAnswers": [
+        "Đầu tư vào cơ sở hạ tầng dân sinh.",
+        "Khuyến khích người dân trồng trọt tự cung tự cấp.",
+        "Xây dựng trường học và cơ sở y tế."
+      ]
     },
     {
-      "question": "Nhà sàn dài của người Mạ thường được sử dụng để mục đích gì?",
-      "answers": {
-        "A) Sinh hoạt hàng ngày": true,
-        "B) Chăn nuôi gia súc": false,
-        "C) Trồng cây trái": false,
-        "D) Làm nơi cúng tế": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Người Kinh từ các tỉnh khác được chiêu mộ đến Lâm Viên, Đồng Nai Thượng với mục đích gì?",
+      "correctAnswers": [
+        "Làm việc trong các đồn điền và công sở của thực dân Pháp."
+      ],
+      "incorrectAnswers": [
+        "Tham gia vào phong trào yêu nước và đấu tranh chống thực dân Pháp.",
+        "Khám phá và khai thác tài nguyên địa phương.",
+        "Xây dựng các trung tâm văn hóa cho cộng đồng."
+      ]
     },
     {
-      "question": "Nhà sàn dài của người Cơ Ho thường được sử dụng để mục đích gì?",
-      "answers": {
-        "A) Sinh hoạt hàng ngày": false,
-        "B) Chăn nuôi gia súc": false,
-        "C) Trồng cây trái": false,
-        "D) Làm nơi cúng tế": true
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Những người lao động ở Lâm Viên, Đồng Nai Thượng thường gặp phải những vấn đề gì trong công việc?",
+      "correctAnswers": ["Bị bóc lột, áp bức, la mắng từ chủ, cai thầu."],
+      "incorrectAnswers": [
+        "Nhận được lương thưởng công bằng.",
+        "Được bảo vệ và đối xử công bằng.",
+        "Có cơ hội thăng tiến trong công việc."
+      ]
     },
     {
-      "question": "Nhà sàn dài của người Chu Ru thường được sử dụng để mục đích gì?",
-      "answers": {
-        "A) Sinh hoạt hàng ngày": false,
-        "B) Chăn nuôi gia súc": true,
-        "C) Trồng cây trái": false,
-        "D) Làm nơi cúng tế": false
-      }
-    },
-
-    {
-      "question": "Loại đất đai chính mà người Mạ sử dụng là gì?",
-      "answers": {
-        "A) Đất đá vôi": false,
-        "B) Đất sét": false,
-        "C) Đất phù sa": false,
-        "D) Đất đỏ bazan": true
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Những năm đầu của thế kỷ XX, tại Lâm Viên, Đồng Nai Thượng, các tổ chức cộng sản ra đời đã gây ra điều gì?",
+      "correctAnswers": [
+        "Kích thích tinh thần yêu nước trong các tầng lớp nhân dân."
+      ],
+      "incorrectAnswers": [
+        "Làm gia tăng sự bất ổn kinh tế.",
+        "Tạo ra mâu thuẫn trong cộng đồng lao động.",
+        "Làm tăng sự chiến đấu chống chính quyền địa phương."
+      ]
     },
     {
-      "question": "Loại đất đai chính mà người Cơ Ho sử dụng là gì?",
-      "answers": {
-        "A) Đất đá vôi": false,
-        "B) Đất sét": false,
-        "C) Đất phù sa": true,
-        "D) Đất đỏ bazan": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Mâu thuẫn giữa nhân dân và chính quyền thực dân tại Lâm Viên, Đồng Nai Thượng đã trở nên gay gắt do nguyên nhân gì?",
+      "correctAnswers": [
+        "Chính sách cai trị, bóc lột của thực dân Pháp làm đời sống nhân dân ngày càng khó khăn."
+      ],
+      "incorrectAnswers": [
+        "Sự can thiệp của các tổ chức cộng sản.",
+        "Sự thiếu tin cậy của người dân đối với chính quyền địa phương.",
+        "Sự mất lòng tin vào các tổ chức xã hội."
+      ]
     },
     {
-      "question": "Loại đất đai chính mà người Chu Ru sử dụng là gì?",
-      "answers": {
-        "A) Đất đá vôi": true,
-        "B) Đất sét": false,
-        "C) Đất phù sa": false,
-        "D) Đất đỏ bazan": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Chi bộ cộng sản đầu tiên ở Lâm Viên được thành lập bởi tổ chức nào?",
+      "correctAnswers": ["Tân Việt Cách mạng đảng"],
+      "incorrectAnswers": [
+        "Liên tỉnh Ngũ Trang",
+        "Hội nghị Tân Mỹ",
+        "Đảng Cộng sản Việt Nam"
+      ]
     },
     {
-      "question": "Hình thức chế biến thức ăn của người Mạ chủ yếu là gì?",
-      "answers": {
-        "A) Nấu hấp": false,
-        "B) Nướng": false,
-        "C) Luộc": true,
-        "D) Rán": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Chi bộ Tân Việt Đà Lạt tác động như thế nào đối với công nhân, công chức và trí thức?",
+      "correctAnswers": [
+        "Tuyên truyền, vận động, giác ngộ cách mạng và xây dựng cơ sở trong họ."
+      ],
+      "incorrectAnswers": [
+        "Làm gia tăng sự bất ổn trong quần chúng.",
+        "Tạo ra mâu thuẫn và xung đột trong cộng đồng.",
+        "Khuyến khích họ tiếp tục làm việc dưới sự thống trị của thực dân Pháp."
+      ]
     },
     {
-      "question": "Hình thức chế biến thức ăn của người Cơ Ho chủ yếu là gì?",
-      "answers": {
-        "A) Nấu hấp": true,
-        "B) Nướng": false,
-        "C) Luộc": false,
-        "D) Rán": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Hội nghị nào đã công bố việc hợp nhất các tổ chức cộng sản, thành lập các chi bộ Đảng Cộng sản Việt Nam cực Nam?",
+      "correctAnswers": ["Hội nghị ở Tân Mỹ (Ninh Thuận)"],
+      "incorrectAnswers": [
+        "Hội nghị ở Đà Lạt",
+        "Hội nghị ở Ngũ Trang",
+        "Hội nghị ở Đắk Lắk"
+      ]
     },
     {
-      "question": "Hình thức chế biến thức ăn của người Chu Ru chủ yếu là gì?",
-      "answers": {
-        "A) Nấu hấp": false,
-        "B) Nướng": true,
-        "C) Luộc": false,
-        "D) Rán": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Việc thành lập chi bộ Đảng Cộng sản Việt Nam đầu tiên của tỉnh Lâm Viên diễn ra tại đâu?",
+      "correctAnswers": [
+        "Trên tầng gác căn buồng số 2 nhà xe Khách sạn Palace (Đà Lạt)"
+      ],
+      "incorrectAnswers": [
+        "Trên tầng gác nhà thờ tại Đà Lạt",
+        "Tại phòng họp của Liên tỉnh Ngũ Trang",
+        "Tại nhà hàng quán cà phê tại Đà Lạt"
+      ]
     },
     {
-      "question": "Món ăn truyền thống nào phổ biến trong người Mạ?",
-      "answers": {
-        "A) Canh măng": false,
-        "B) Gỏi cuốn": false,
-        "C) Canh chua": true,
-        "D) Thịt kho tộ": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Chi bộ cộng sản đầu tiên ở Lâm Viên được lãnh đạo bởi ai?",
+      "correctAnswers": ["Ông Trần Diệm"],
+      "incorrectAnswers": ["Ông Trần Huy", "Ông Trần Nam", "Ông Trần Hoàng"]
     },
     {
-      "question": "Món ăn truyền thống nào phổ biến trong người Cơ Ho?",
-      "answers": {
-        "A) Canh măng": true,
-        "B) Gỏi cuốn": false,
-        "C) Canh chua": false,
-        "D) Thịt kho tộ": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Chi bộ Cộng sản tách thành hai chi bộ vào cuối năm 1930 tại Lâm Viên với tên gì?",
+      "correctAnswers": ["Chi bộ Palace và Chi bộ Cầu Quẹo"],
+      "incorrectAnswers": [
+        "Chi bộ Đà Lạt và Chi bộ Dran",
+        "Chi bộ Trường Sơn và Chi bộ Cầu Đất",
+        "Chi bộ Đồi Thông và Chi bộ Lý Thái Tổ"
+      ]
     },
     {
-      "question": "Món ăn truyền thống nào phổ biến trong người Chu Ru?",
-      "answers": {
-        "A) Canh măng": false,
-        "B) Gỏi cuốn": false,
-        "C) Canh chua": false,
-        "D) Thịt kho tộ": true
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Sự kiện gì đã diễn ra trong dịp kỉ niệm Ngày Quốc tế Lao động 1/5/1930?",
+      "correctAnswers": [
+        "Cờ đỏ búa liềm và truyền đơn xuất hiện nhiều nơi ở khu vực Đà Lạt, Dran và Cầu Đất."
+      ],
+      "incorrectAnswers": [
+        "Cuộc bãi công tại công trường Đại Đồng Tâm.",
+        "Hội thảo văn hóa nghệ thuật tại nhà văn hóa huyện.",
+        "Cuộc diễu hành lớn qua các đường phố chính."
+      ]
     },
     {
-      "question": "Nghệ thuật dệt may truyền thống nào phổ biến trong người Mạ?",
-      "answers": {
-        "A) Dệt vải": true,
-        "B) May áo dài": false,
-        "C) Dệt nón lá": false,
-        "D) May váy cưới": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Ngày nào đánh dấu sự bắt đầu của cuộc bãi công tại công trường đường hầm Cầu Đất?",
+      "correctAnswers": ["Ngày 4/5/1930"],
+      "incorrectAnswers": ["Ngày 1/5/1930", "Ngày 10/5/1930", "Ngày 8/3/1930"]
     },
     {
-      "question": "Nghệ thuật dệt may truyền thống nào phổ biến trong người Cơ Ho?",
-      "answers": {
-        "A) Dệt vải": false,
-        "B) May áo dài": false,
-        "C) Dệt nón lá": true,
-        "D) May váy cưới": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Nguyên nhân chính dẫn đến sự tạm lắng xuống của phong trào cách mạng ở Lâm Viên - Đồng Nai Thượng vào cuối tháng 4/1931 là gì?",
+      "correctAnswers": [
+        "Bắt giữ các đảng viên và ngừng hoạt động của các tổ chức cách mạng."
+      ],
+      "incorrectAnswers": [
+        "Sự phân hóa nội bộ trong chi bộ Đảng.",
+        "Khủng bố từ phía quân đội Pháp.",
+        "Mâu thuẫn xã hội nội bộ trong quần chúng."
+      ]
     },
     {
-      "question": "Nghệ thuật dệt may truyền thống nào phổ biến trong người Chu Ru?",
-      "answers": {
-        "A) Dệt vải": false,
-        "B) May áo dài": true,
-        "C) Dệt nón lá": false,
-        "D) May váy cưới": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Sự kiện gì diễn ra vào ngày 6/3/1931?",
+      "correctAnswers": [
+        "Một số đảng viên và cơ sở cách mạng bị bắt trong khi đang in truyền đơn và tài liệu của Đảng."
+      ],
+      "incorrectAnswers": [
+        "Hội thảo văn hóa nghệ thuật tại trung tâm thành phố.",
+        "Cuộc biểu tình của công nhân yêu cầu tăng lương.",
+        "Diễu hành kỉ niệm ngày thành lập chi bộ Đảng."
+      ]
     },
     {
-      "question": "Trong truyền thuyết của người Mạ, con người được hình thành từ đâu?",
-      "answers": {
-        "A) Gốc cây": false,
-        "B) Gốc rễ": true,
-        "C) Cây cỏ": false
-      }
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Công nhân của hãng Đờ-ra-ga (Dragage) ở Đà Lạt đã thực hiện hành động gì đáng chú ý?",
+      "correctAnswers": [
+        "Bãi công đòi chủ không sa thải công nhân và không giảm lương."
+      ],
+      "incorrectAnswers": [
+        "Biểu tình yêu cầu cải thiện điều kiện làm việc.",
+        "Cuộc đình công đòi tăng lương.",
+        "Tổ chức đảng viên đi quyên góp cho quỹ cứu trợ công nhân."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Kết quả của cuộc bãi công tại công trường đường hầm Cầu Đất?",
+      "correctAnswers": ["Công nhân giành được một nửa số lương còn thiếu."],
+      "incorrectAnswers": [
+        "Công nhân không đạt được bất kỳ yêu cầu nào.",
+        "Chủ hãng nhận trả toàn bộ số lương còn thiếu.",
+        "Công nhân bị sa thải sau cuộc bãi công."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Sự kiện gì đã diễn ra trong dịp kỉ niệm ngày Quốc tế Phụ nữ 8/3/1931?",
+      "correctAnswers": ["Các đảng viên và tổ chức cách mạng bị bắt."],
+      "incorrectAnswers": [
+        "Cuộc biểu tình quy mô lớn của phụ nữ yêu cầu quyền bình đẳng.",
+        "Tổ chức hội thảo về vai trò của phụ nữ trong cách mạng.",
+        "Tổ chức các hoạt động kỷ niệm văn hóa cho phụ nữ."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Sự kiện gì đánh dấu sự chấm dứt của các chi bộ Đảng và tổ chức cách mạng ở Lâm Viên - Đồng Nai Thượng?",
+      "correctAnswers": [
+        "Bắt giữ và ngừng hoạt động của các đảng viên và tổ chức cách mạng."
+      ],
+      "incorrectAnswers": [
+        "Phân hóa nội bộ trong chi bộ Đảng.",
+        "Khủng bố từ phía quân đội Pháp.",
+        "Mâu thuẫn xã hội nội bộ trong quần chúng."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Sự kiện nào không ghi nhận trong giai đoạn tạm lắng xuống của phong trào cách mạng ở Lâm Viên - Đồng Nai Thượng?",
+      "correctAnswers": [
+        "Hội thảo văn hóa nghệ thuật tại trung tâm thành phố."
+      ],
+      "incorrectAnswers": [
+        "Hành động của công nhân hãng Đờ-ra-ga.",
+        "Sự bắt giữ đảng viên và cơ sở cách mạng.",
+        "Cờ đỏ búa liềm và truyền đơn xuất hiện nhiều nơi."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Cách mạng ở Việt Nam thời kỳ này tập trung vào việc gì?",
+      "correctAnswers": ["Chống phát xít và bảo vệ hoà bình."],
+      "incorrectAnswers": [
+        "Độc lập dân tộc.",
+        "Chống bọn phản động tay sai.",
+        "Tự do cá nhân và phát triển dân chủ."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Đối với tổ chức Đảng ở Lâm Viên và Đồng Nai Thượng trong giai đoạn này, tình hình thế giới đã diễn ra thế nào?",
+      "correctAnswers": ["Chưa được khôi phục."],
+      "incorrectAnswers": [
+        "Đã tạo ra sự đoàn kết chặt chẽ.",
+        "Phát triển mạnh mẽ.",
+        "Tạm gác bỏ hoạt động."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Mục tiêu chính của Mặt trận Dân chủ Đông Dương trong thời kỳ 1936-1939 là gì?",
+      "correctAnswers": ["Tự do và dân chủ."],
+      "incorrectAnswers": [
+        "Chống phát xít và bảo vệ hoà bình.",
+        "Độc lập dân tộc.",
+        "Hợp nhất các lực lượng đấu tranh."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Tác động của tin tức về phong trào đấu tranh ở các địa phương trong cả nước đối với Lâm Viên và Đồng Nai Thượng là gì?",
+      "correctAnswers": [
+        "Khơi dậy tinh thần đấu tranh của giai cấp công nhân và nhân dân các dân tộc."
+      ],
+      "incorrectAnswers": [
+        "Tạo ra sự đoàn kết giữa các tổ chức Đảng.",
+        "Ảnh hưởng đến...",
+        "Sự chuyển biến về ý thức, trình độ giác ngộ."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Tình hình thế giới và trong nước tác động thế nào đến phong trào cách mạng những năm 1936 - 1939 ở hai tỉnh Lâm Viên - Đồng Nai Thượng?",
+      "correctAnswers": [
+        "Không tạo điều kiện thuận lợi cho việc khôi phục hoạt động của tổ chức Đảng."
+      ],
+      "incorrectAnswers": [
+        "Tạo ra sự đoàn kết...",
+        "Ảnh hưởng đến...",
+        "Tăng cường sự đoàn kết giữa các lực lượng đấu tranh."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Ngày nào hơn 200 công nhân ở Sở Thí nghiệm Nông nghiệp Djiring đình công phản đối chủ giảm lương?",
+      "correctAnswers": ["24/8/1936"],
+      "incorrectAnswers": ["2/2/1936", "2/2/1937", "7/7/1937"]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Yêu cầu nào khiến hơn 500 công nhân nhà máy chè Cầu Đất đình công vào tháng 2/1936?",
+      "correctAnswers": ["Trả đủ lương và đúng thời hạn."],
+      "incorrectAnswers": [
+        "Giảm giờ làm.",
+        "Tăng thưởng cho công nhân.",
+        "Cải thiện điều kiện làm việc."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Đình công nào trong tháng 2/1937 tại Đà Lạt đòi tăng lương?",
+      "correctAnswers": ["Công trường xây dựng nhà thờ Thiên Chúa giáo."],
+      "incorrectAnswers": [
+        "Nhà máy chè Cầu Đất.",
+        "Sở Thí nghiệm Nông nghiệp Djiring.",
+        "Đường xe lửa Tháp Chàm - Đà Lạt."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Yêu cầu nào trong đình công Tháp Chàm - Đà Lạt tháng 7/1937?",
+      "correctAnswers": [
+        "Trả lại tiền lương bị giảm trong những năm 1933 - 1935 và tăng lương 15%."
+      ],
+      "incorrectAnswers": [
+        "Giảm giờ làm.",
+        "Đòi tăng thưởng cho công nhân.",
+        "Cải thiện điều kiện làm việc."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Sự kiện gì diễn ra vào ngày 1/5/1938 tại rừng Cam Ly?",
+      "correctAnswers": [
+        "Cuộc mít tinh kêu gọi giai cấp công nhân và nhân dân đoàn kết đấu tranh."
+      ],
+      "incorrectAnswers": [
+        "Cuộc biểu tình chống chính phủ.",
+        "Cuộc họp kỷ niệm ngày lễ lớn.",
+        "Cuộc thi âm nhạc và văn nghệ."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Tổ chức nào đã tổ chức và lãnh đạo công nhân đình công xây dựng Dinh nghỉ mát Toàn quyền Đông Dương vào tháng 8/1938?",
+      "correctAnswers": ["Nhóm Tiến bộ."],
+      "incorrectAnswers": [
+        "Hội Thanh niên du lịch.",
+        "Hội Ái hữu.",
+        "Hội Truyền bá Quốc ngữ."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Cuộc đình công nào được ghi nhận là có quy mô lớn nhất của công nhân Lâm Viên – Đồng Nai Thượng?",
+      "correctAnswers": [
+        "Hơn 1 900 công nhân đồn điền chè, công nhân xe lửa và các xưởng cưa ở Cầu Đất."
+      ],
+      "incorrectAnswers": [
+        "Hơn 200 công nhân ở Sở Thí nghiệm Nông nghiệp Djiring.",
+        "Hơn 500 công nhân nhà máy chè Cầu Đất.",
+        "Công nhân công trường xây dựng nhà thờ Thiên Chúa giáo ở Đà Lạt."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Cuộc nổi dậy của đồng bào các dân tộc thiểu số diễn ra dưới sự lãnh đạo của ai?",
+      "correctAnswers": ["Hai thủ lĩnh K’Voai và K’Nhòi."],
+      "incorrectAnswers": [
+        "Nhóm Tiến bộ.",
+        "Hội Thanh niên du lịch.",
+        "Mộ Cọ (bà trắng)."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Tại Đà Lạt, chi bộ Đảng được khôi phục lại vào thời gian nào?",
+      "correctAnswers": ["Tháng 12/1938"],
+      "incorrectAnswers": ["Tháng 7/1937", "Tháng 8/1938", "Tháng 5/1938"]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Các tổ chức quần chúng và chi bộ Đảng ở Đà Lạt ngừng hoạt động vào thời gian nào?",
+      "correctAnswers": ["Cuối tháng 10/1939"],
+      "incorrectAnswers": ["Tháng 12/1938", "Tháng 8/1938", "Tháng 5/1938"]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Theo bạn, yếu tố nào đã thúc đẩy cuộc cách mạng tháng Tám năm 1945 ở Lâm Viên – Đồng Nai Thượng diễn ra?",
+      "correctAnswers": [
+        "Thay đổi tình hình thế giới với sự suy yếu của các phát xít Đức và Nhật."
+      ],
+      "incorrectAnswers": [
+        "Sự gia tăng sức ép từ thực dân Pháp.",
+        "Tăng cường quyền lực của các tổ chức đảng phản đế.",
+        "Sự phản kháng dữ dội của nhân dân."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Ai là người được ghi nhận là thủ lĩnh đầu tiên của cuộc cách mạng tháng Tám ở Đà Lạt?",
+      "correctAnswers": ["Phan Đình Phùng"],
+      "incorrectAnswers": ["Hồ Chí Minh", "Mạc Đĩnh Chi", "Phan Bội Châu"]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleResponses",
+      "question": "Những biểu hiện nào chứng tỏ sự phản kháng của người dân Lâm Viên – Đồng Nai Thượng trong giai đoạn 1939 – 1945?",
+      "correctAnswers": [
+        "Công nhân làm đường 20 đấu tranh đòi trả lương đúng kì",
+        "Công nhân đồn điền khai thác mủ ngo Gu-ga đốt cháy kho mủ ngo"
+      ],
+      "incorrectAnswers": [
+        "Ngưng trệ sản xuất do thiếu nguồn nguyên liệu",
+        "Sự chấp nhận im lặng trước sự áp bức"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Ai là người đứng đầu Uỷ ban nhân dân Cách mạng lâm thời tỉnh Lâm Viên?",
+      "correctAnswers": ["Phan Đức Huy"],
+      "incorrectAnswers": ["Nguyễn Đại Hoà", "Ngô Huy Diễn", "Nguyễn Thế Tính"]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Ngày 23/8/1945, nhóm người dân nào đã bao vây Dinh Tỉnh trưởng Lâm Viên, buộc viên tỉnh trưởng phải đầu hàng?",
+      "correctAnswers": ["Đoàn biểu tình từ các địa bàn ngoại ô"],
+      "incorrectAnswers": [
+        "Công nhân làm đường 20",
+        "Đoàn biểu tình từ Đà Lạt",
+        "Công nhân đồn điền khai thác mủ ngo Gu-ga"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleResponses",
+      "question": "Những cơ quan nào đã được thành lập sau khi cách mạng tháng Tám năm 1945 thành công ở Lâm Viên và Đồng Nai Thượng?",
+      "correctAnswers": [
+        "Chính quyền cách mạng từ tỉnh đến cơ sở",
+        "Mặt trận Việt Minh từ tỉnh đến cơ sở"
+      ],
+      "incorrectAnswers": [
+        "Tổ chức Đảng ở địa phương",
+        "Uỷ ban Mặt trận phản đế",
+        "Ban cán sự Đảng"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Ai là người đứng đầu Uỷ ban nhân dân Cách mạng lâm thời tỉnh Đồng Nai Thượng?",
+      "correctAnswers": ["Nguyễn Đại Hoà"],
+      "incorrectAnswers": ["Phan Đức Huy", "Ngô Huy Diễn", "Nguyễn Thế Tính"]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Ngày nào được xem là ngày thành lập Uỷ ban nhân dân Cách mạng lâm thời tỉnh Lâm Viên?",
+      "correctAnswers": ["23/8/1945"],
+      "incorrectAnswers": ["21/8/1945", "24/8/1945", "25/8/1945"]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleResponses",
+      "question": "Những biểu hiện nào chứng tỏ sự phản kháng của người dân Lâm Viên – Đồng Nai Thượng trong giai đoạn 1939 – 1945?",
+      "correctAnswers": [
+        "Công nhân làm đường 20 đấu tranh đòi trả lương đúng kì",
+        "Công nhân đồn điền khai thác mủ ngo Gu-ga đốt cháy kho mủ ngo"
+      ],
+      "incorrectAnswers": [
+        "Ngưng trệ sản xuất do thiếu nguồn nguyên liệu",
+        "Sự chấp nhận im lặng trước sự áp bức"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 1",
+      "type": "multipleChoices",
+      "question": "Ai là người đứng đầu Uỷ ban nhân dân Cách mạng lâm thời tỉnh Lâm Viên?",
+      "correctAnswers": ["Phan Đức Huy"],
+      "incorrectAnswers": ["Nguyễn Đại Hoà", "Ngô Huy Diễn", "Nguyễn Thế Tính"]
+    }
+  ],
+  "chuyende2": [
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Theo bạn, dân tộc nào có số lượng đông nhất trong tỉnh Lâm Đồng?",
+      "correctAnswers": ["Cơ Ho"],
+      "incorrectAnswers": ["Mạ", "Chu Ru", "Xrê"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Dân tộc nào tập trung nhiều ở thành phố Bảo Lộc và Bảo Lâm?",
+      "correctAnswers": ["Mạ"],
+      "incorrectAnswers": ["Cơ Ho", "Chu Ru", "Xrê"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Ngôn ngữ nào được sử dụng bởi người thuộc dân tộc Chu Ru?",
+      "correctAnswers": ["Ma-lay-ô – Po-ly-nê-xi-a"],
+      "incorrectAnswers": ["Môn – Khmer", "Tiếng Chăm", "Ngữ hệ Nam Á"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Dân tộc nào sử dụng công cụ làm rẫy như rìu, xà gạc, dao và gậy chọc lỗ?",
+      "correctAnswers": ["Mạ"],
+      "incorrectAnswers": ["Cơ Ho", "Chu Ru", "Xrê"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Người Cơ Ho thường trồng những loại cây nào chủ yếu?",
+      "correctAnswers": ["Lúa"],
+      "incorrectAnswers": ["Ngô", "Bắp", "Sắn"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Dân tộc nào có số lượng đông nhất ở huyện Đơn Dương và Đức Trọng?",
+      "correctAnswers": ["Chu Ru"],
+      "incorrectAnswers": ["Cơ Ho", "Mạ", "Xrê"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Người Cơ Ho thường sử dụng gia súc và gia cầm để làm gì?",
+      "correctAnswers": ["Hiến tế trong các lễ nghi"],
+      "incorrectAnswers": ["Nông nghiệp", "Đánh cá", "Săn bắn"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Dân tộc nào thuộc nhóm ngôn ngữ Môn – Khmer?",
+      "correctAnswers": ["Cơ Ho"],
+      "incorrectAnswers": ["Mạ", "Chu Ru", "Xrê"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Người Mạ thường sử dụng công cụ nào khi làm rẫy?",
+      "correctAnswers": ["Rìu"],
+      "incorrectAnswers": ["Xà gạc", "Gậy chọc lỗ", "Dao"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Dân tộc nào tập trung nhiều ở các huyện Di Linh, Lâm Hà, Đam Rông?",
+      "correctAnswers": ["Cơ Ho"],
+      "incorrectAnswers": ["Mạ", "Chu Ru", "Xrê"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Nhà ở truyền thống của người Mạ thường có điều gì đặc biệt?",
+      "correctAnswers": ["Có nơi thiêng liêng để thờ các vật thiêng"],
+      "incorrectAnswers": [
+        "Sàn nhà thấp",
+        "Dùng lá rsồi để lợp nhà",
+        "Được nối dài khi thành viên trong nhà kết hôn"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Trang phục truyền thống của người Mạ thường có những đặc điểm gì?",
+      "correctAnswers": [
+        "Tóc dài búi sau gáy",
+        "Áo chui đầu, xẻ tà, vạt sau dài hơn vạt trước"
+      ],
+      "incorrectAnswers": [
+        "Mặc áo đóng khố",
+        "Áo nữ không xẻ tà",
+        "Váy trắng trên nền chàm"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Loại trang phục nào được nam giới Cơ Ho thường mặc?",
+      "correctAnswers": ["Áo đóng khố theo hình chữ T"],
+      "incorrectAnswers": [
+        "Áo sơ mi khoác tấm choàng trắng",
+        "Áo dài màu đen",
+        "Áo nữ vừa sát thân và dài tới thắt lưng"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Trang phục truyền thống của người Chu Ru có những đặc điểm nào?",
+      "correctAnswers": [
+        "Áo sơ mi khoác tấm choàng trắng",
+        "Váy màu xanh đen",
+        "Áo dài màu đen"
+      ],
+      "incorrectAnswers": [
+        "Đeo khăn đội đầu",
+        "Mặc áo đóng khố",
+        "Đeo trang sức rất đặc trưng"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Đặc điểm nào được nhắc đến trong văn hoá nhà ở của người Cơ Ho?",
+      "correctAnswers": ["Có sàn nhưng thấp hơn so với các dân tộc khác"],
+      "incorrectAnswers": [
+        "Có nơi thiêng liêng để thờ các vật thiêng",
+        "Nhà dài đến 20-30m",
+        "Sử dụng lá rsồi để lợp nhà"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Trong văn hoá nhà ở của người Chu Ru, điều gì được nhắc đến?",
+      "correctAnswers": [
+        "Mỗi đại gia đình thường gồm 3-4 thế hệ chung sống",
+        "Dưới sàn thường là nơi chất củi",
+        "Mỗi nhà trên để ở, nhà dưới làm nhà bếp và nối với nhau bằng Lơnhan"
+      ],
+      "incorrectAnswers": [
+        "Có sàn nhưng thấp hơn so với các dân tộc khác",
+        "Có nơi thiêng liêng để thờ các vật thiêng",
+        "Nhà dài đến 20-30m"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Đặc điểm nào là đặc trưng trong trang phục của người Mạ?",
+      "correctAnswers": ["Tóc dài búi sau gáy"],
+      "incorrectAnswers": [
+        "Áo chui đầu, xẻ tà, vạt sau dài hơn vạt trước",
+        "Mặc áo đóng khố",
+        "Váy trắng trên nền chàm"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Trong trang phục truyền thống của người Cơ Ho, điều gì là điển hình?",
+      "correctAnswers": [
+        "Áo nữ mặc vừa sát vào thân và dài tới thắt lưng",
+        "Váy được dệt và trang trí hoa văn hình học màu đỏ, trắng trên nền tối (xanh đen)"
+      ],
+      "incorrectAnswers": [
+        "Áo đóng khố theo hình chữ T",
+        "Tóc dài búi sau gáy",
+        "Áo chui đầu, xẻ tà, vạt sau dài hơn vạt trước"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Trang phục truyền thống của người Chu Ru thường có điều gì đặc biệt?",
+      "correctAnswers": ["Sự giao thoa giữa dân tộc Cơ Ho và dân tộc Chăm"],
+      "incorrectAnswers": [
+        "Áo dài màu đen",
+        "Váy màu xanh đen",
+        "Áo sơ mi khoác tấm choàng trắng"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Trong trang phục truyền thống của người Mạ, điều gì là đặc trưng?",
+      "correctAnswers": [
+        "Áo chui đầu, xẻ tà, vạt sau dài hơn vạt trước",
+        "Tóc dài búi sau gáy"
+      ],
+      "incorrectAnswers": [
+        "Mặc áo đóng khố",
+        "Váy trắng trên nền chàm",
+        "Áo nữ không xẻ tà"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Điều gì là tín ngưỡng chung của người Cơ Ho, Mạ và Chu Ru?",
+      "correctAnswers": ["Thờ cúng nhiều vị thần và tổ tiên"],
+      "incorrectAnswers": [
+        "Tôn kính thần linh duy nhất",
+        "Không tin vào thần linh",
+        "Phụ thuộc vào khoa học và công nghệ"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Đặc điểm nào là đúng về tín ngưỡng của người Cơ Ho, Mạ và Chu Ru?",
+      "correctAnswers": [
+        "Thờ cúng thần như thần nhà, thần lúa, thần rừng",
+        "Quan niệm có thần thiện và ác quỷ"
+      ],
+      "incorrectAnswers": [
+        "Không có thần linh trong tín ngưỡng",
+        "Chỉ thờ cúng một vị thần duy nhất"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Phong tục hôn nhân của người Cơ Ho được miêu tả như thế nào?",
+      "correctAnswers": ["Hôn nhân một vợ một chồng và cư trú bên vợ"],
+      "incorrectAnswers": [
+        "Hôn nhân nhiều vợ nhiều chồng",
+        "Chỉ cư trú bên chồng",
+        "Không có phong tục hôn nhân"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Những đặc điểm nào đúng về phong tục hôn nhân của người Mạ?",
+      "correctAnswers": [
+        "Phụ hệ khi con trai đến tuổi trưởng thành để đính hôn",
+        "Chồng có trách nhiệm nộp lễ vật cho nhà gái"
+      ],
+      "incorrectAnswers": [
+        "Hôn nhân không có lễ vật",
+        "Hôn nhân tự do không phụ thuộc vào gia đình"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Phong tục hôn nhân của người Chu Ru được mô tả như thế nào?",
+      "correctAnswers": ["Hôn nhân một vợ một chồng và cư trú bên nhà vợ"],
+      "incorrectAnswers": [
+        "Hôn nhân nhiều vợ nhiều chồng",
+        "Chỉ cư trú bên chồng",
+        "Không có phong tục hôn nhân"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Những phong tục tang lễ đúng đối với người Mạ là gì?",
+      "correctAnswers": [
+        "Thờ cúng và tổ chức ngày rơlô, ngày ràn, ngày tớp",
+        "Chôn cất có thể không xem xét hướng đào huyệt"
+      ],
+      "incorrectAnswers": ["Chỉ có ngày tang", "Không có lễ cúng trong tang lễ"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Phong tục tang lễ của người Chu Ru là gì?",
+      "correctAnswers": ["Tiến hành trong 3 ngày"],
+      "incorrectAnswers": [
+        "Không có phong tục tang lễ",
+        "Chỉ một ngày tang",
+        "Tang lễ kéo dài hơn 3 ngày"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Những đặc điểm nào đúng về phong tục tang lễ của người Cơ Ho?",
+      "correctAnswers": [
+        "Đánh chiêng để báo tin cho cộng đồng",
+        "Thực hiện nghi lễ và đào huyệt sau ngày ràn"
+      ],
+      "incorrectAnswers": [
+        "Không có ngày ràn trong tang lễ",
+        "Không có lễ đào huyệt"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Những đặc điểm nào đúng về phong tục tang lễ của người Chu Ru?",
+      "correctAnswers": [
+        "Người chết được chôn chung một huyệt theo từng gia đình",
+        "Tiến hành trong 3 ngày"
+      ],
+      "incorrectAnswers": [
+        "Không có phong tục tang lễ",
+        "Chỉ một ngày tang",
+        "Tang lễ kéo dài hơn 3 ngày"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Trong tín ngưỡng và phong tục của người Cơ Ho, Mạ và Chu Ru, điều gì là điểm chung?",
+      "correctAnswers": [
+        "Thờ cúng và tôn kính tổ tiên",
+        "Quan niệm về thần linh và cà (ác quỷ)"
+      ],
+      "incorrectAnswers": [
+        "Không có điểm chung nào giữa họ",
+        "Tín ngưỡng chỉ dựa vào khoa học và công nghệ"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Đặc điểm nào là đúng về phong tục hôn nhân của người Mạ?",
+      "correctAnswers": [
+        "Phụ hệ khi con trai đến tuổi trưởng thành để đính hôn",
+        "Chồng có trách nhiệm nộp lễ vật cho nhà gái"
+      ],
+      "incorrectAnswers": [
+        "Hôn nhân không có lễ vật",
+        "Hôn nhân tự do không phụ thuộc vào gia đình"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Lễ hội chủ yếu của người Mạ trong mùa lễ hội là gì?",
+      "correctAnswers": ["Nhô Rơ he (lễ hội mừng lúa mới)"],
+      "incorrectAnswers": [
+        "Nhô năng brê (lễ xem rừng xem đất)",
+        "Nhô tăm snơm (lễ xin thần linh giúp cho hạt lúa lên đều, trổ nhiều bông)",
+        "Ngai bơ thi bốc (lễ bỏ mả, nghi lễ lớn nhất trong vòng đời của một con người)"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Các lễ hội và nghi lễ của người Cơ Ho, Mạ và Chu Ru thường liên quan đến những hoạt động nào?",
+      "correctAnswers": ["Nông nghiệp", "Tôn vinh thần linh"],
+      "incorrectAnswers": ["Công nghiệp hiện đại", "Thể thao và giải trí"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Loại nhạc cụ nào không có trong kho tàng nghệ thuật dân gian của người Cơ Ho?",
+      "correctAnswers": ["Sơgơr"],
+      "incorrectAnswers": [
+        "Bộ cồng chiêng 6 chiếc",
+        "Kèn ống bầu (Kơmbuat)",
+        "Đàn ống tre (Kơrla)"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Những hoạt động nào thường có sự tham gia của nhạc cụ cồng, chiêng trong văn hoá dân gian của các dân tộc thiểu số ở Lâm Đồng?",
+      "correctAnswers": ["Lễ hội", "Cưới hỏi", "Tang lễ", "Mừng năm mới"],
+      "incorrectAnswers": ["Hội nghị kinh tế", "Lễ hội âm nhạc hiện đại"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Lễ cúng thần đập nước Bơmung liên quan đến người dân tộc nào?",
+      "correctAnswers": ["Chu Ru"],
+      "incorrectAnswers": ["Mạ", "Cơ Ho", "Không liên quan đến các dân tộc nào"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Loại hình hát kể đối đáp đặc biệt của người Mạ là gì?",
+      "correctAnswers": ["Tàm-pớt"],
+      "incorrectAnswers": [
+        "Tămya-Aria",
+        "T’rumpô",
+        "Pơt giữa chàng K'Yai và nàng Kông"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Những nghi lễ, lễ hội nào có liên quan đến nông nghiệp trong văn hoá của người Chu Ru?",
+      "correctAnswers": [
+        "Lễ cúng thần đập nước (Bơmung)",
+        "Cúng thần mương nước (Rơ bông)",
+        "Cúng thần lúa khi gieo hạt",
+        "Lễ mừng lúa mới"
+      ],
+      "incorrectAnswers": ["Lễ hội văn hóa đô thị", "Lễ hội thể thao"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Các nhạc cụ truyền thống của người Chu Ru không bao gồm cái gì sau đây?",
+      "correctAnswers": ["Sơgơr"],
+      "incorrectAnswers": ["Trống (sơ gơn)", "Kèn (rơkel)", "R'tông"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleResponses",
+      "question": "Các dịp nào người Mạ thường tổ chức lễ hiến sinh?",
+      "correctAnswers": ["Cưới hỏi", "Sinh đẻ", "Làm nhà mới", "Đau ốm"],
+      "incorrectAnswers": ["Du lịch", "Tham quan", "Học tập"]
+    },
+    {
+      "categoryName": "Chuyên đề 2",
+      "type": "multipleChoices",
+      "question": "Loại nhạc cụ đặc sắc nào không thuộc kho tàng nghệ thuật dân gian của người Cơ Ho?",
+      "correctAnswers": ["R'tông"],
+      "incorrectAnswers": [
+        "Bộ cồng chiêng 6 chiếc",
+        "Kèn ống bầu (Kơmbuat)",
+        "Đàn ống tre (Kơrla)"
+      ]
+    }
+  ],
+  "chuyende3": [
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Văn học dân gian Lâm Đồng thường được truyền lại như thế nào?",
+      "correctAnswers": ["Bằng con đường truyền miệng"],
+      "incorrectAnswers": [
+        "Qua sách vở và báo chí",
+        "Truyền qua các phương tiện truyền thông đại chúng",
+        "Dưới dạng các bức tranh minh họa"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Thần thoại của các dân tộc thiểu số ở Lâm Đồng thường kể về điều gì?",
+      "correctAnswers": [
+        "Các vị thần sáng tạo thế giới tự nhiên",
+        "Nguyên nguồn gốc của thế giới tự nhiên"
+      ],
+      "incorrectAnswers": [
+        "Lịch sử chiến tranh của vùng đất",
+        "Các sự kiện chính trị trong vùng",
+        "Cuộc sống hàng ngày của người dân"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Văn học dân gian Lâm Đồng phản ánh điều gì?",
+      "correctAnswers": [
+        "Đời sống tinh thần, bản sắc văn hoá, phong tục tập quán của người xưa"
+      ],
+      "incorrectAnswers": [
+        "Các sự kiện lịch sử quan trọng",
+        "Những công trình kiến trúc nổi tiếng",
+        "Các cuộc cải cách xã hội"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Văn học dân gian Lâm Đồng có đặc điểm gì?",
+      "correctAnswers": [
+        "Đa sắc tộc",
+        "Đa dạng về đề tài",
+        "Đặc sắc về nội dung và nghệ thuật"
+      ],
+      "incorrectAnswers": [
+        "Tính chất một dòng văn học",
+        "Sự tương đồng với văn học các khu vực khác",
+        "Thiên về một loại hình nghệ thuật cụ thể"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Theo quan niệm của văn học dân gian Lâm Đồng, con người là gì?",
+      "correctAnswers": ["Một trong muôn loài của đời sống tự nhiên"],
+      "incorrectAnswers": [
+        "Thiên tai vô thần",
+        "Chủ thể duy nhất kiểm soát thế giới tự nhiên",
+        "Sự hiện thân của các vị thần thời xa xưa"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Truyền thống văn học dân gian Lâm Đồng thường được diễn ra ở đâu?",
+      "correctAnswers": [
+        "Trên nương rẫy, bên suối, trong các lễ hội truyền thống"
+      ],
+      "incorrectAnswers": [
+        "Trong các thư viện và viện bảo tàng",
+        "Tại các trường học và trung tâm văn hóa",
+        "Trên các trang mạng và mạng xã hội"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Văn học dân gian Lâm Đồng phản ánh những khía cạnh nào của đời sống xã hội?",
+      "correctAnswers": [
+        "Phong tục, tập quán",
+        "Cách nghĩ, cảm nhận",
+        "Bản sắc văn hoá"
+      ],
+      "incorrectAnswers": [
+        "Các chiến tranh lịch sử",
+        "Những phát triển kinh tế hiện đại",
+        "Các di sản kiến trúc"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Thần thoại của các dân tộc thiểu số ở Lâm Đồng thường kể về điều gì?",
+      "correctAnswers": ["Các vị thần sáng tạo thế giới tự nhiên"],
+      "incorrectAnswers": [
+        "Lịch sử chiến tranh của vùng đất",
+        "Các sự kiện chính trị trong vùng",
+        "Cuộc sống hàng ngày của người dân"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Văn học dân gian Lâm Đồng thường thể hiện những đặc điểm nào?",
+      "correctAnswers": [
+        "Tính đa sắc tộc",
+        "Đa dạng về đề tài",
+        "Đặc sắc về nghệ thuật"
+      ],
+      "incorrectAnswers": [
+        "Chỉ tập trung vào một đề tài cụ thể",
+        "Sự trùng lặp về nội dung với văn học khác",
+        "Thiên về một loại hình nghệ thuật duy nhất"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Văn học dân gian Lâm Đồng được thể hiện chủ yếu thông qua phương tiện truyền miệng hay không?",
+      "correctAnswers": ["Có, thông qua con đường truyền miệng"],
+      "incorrectAnswers": [
+        "Không, chỉ thông qua việc viết và xuất bản sách",
+        "Chủ yếu thông qua các phương tiện truyền thông hiện đại",
+        "Thể hiện qua các di sản kiến trúc"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Theo truyền thuyết, tại sao nhiều địa danh ở Lâm Đồng được đặt tên theo những câu chuyện cổ tích?",
+      "correctAnswers": [
+        "Có vai trò quan trọng trong cuộc sống cộng đồng và có dấu tích lịch sử đáng kể."
+      ],
+      "incorrectAnswers": [
+        "Để tạo nên sự huyền bí cho vùng đất.",
+        "Theo chỉ đạo của người đứng đầu cộng đồng.",
+        "Do ảnh hưởng từ truyền thuyết nổi tiếng ở các khu vực khác."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Truyền thuyết về các địa danh ở Lâm Đồng thường có những yếu tố chung nào?",
+      "correctAnswers": [
+        "Sự kiện lớn ảnh hưởng đến lịch sử cộng đồng.",
+        "Dấu tích lưu lại đến ngày nay."
+      ],
+      "incorrectAnswers": [
+        "Chỉ kể về những sự kiện huyền bí và không có thực.",
+        "Không có bất kỳ yếu tố chung nào, mỗi truyền thuyết đều khác nhau."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Trong truyền thuyết, việc kể lại sự kiện lớn thường có tác dụng gì đối với cộng đồng?",
+      "correctAnswers": [
+        "Thể hiện truyền thống đoàn kết và sức mạnh cộng đồng."
+      ],
+      "incorrectAnswers": [
+        "Tạo nên sự giả tưởng và mơ hồ về quá khứ.",
+        "Không có tác dụng gì đặc biệt đối với cộng đồng."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Trong truyền thuyết của dân tộc thiểu số ở Lâm Đồng, những câu chuyện thường tập trung vào điều gì?",
+      "correctAnswers": [
+        "Sự tích của các núi, sông, suối và làng có vai trò quan trọng trong cộng đồng.",
+        "Sự kiện lớn ảnh hưởng đến lịch sử và cuộc sống cộng đồng."
+      ],
+      "incorrectAnswers": [
+        "Những câu chuyện không liên quan tới thực tế xã hội.",
+        "Chỉ nhấn mạnh vào sự huyền bí và ma quái."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Trong truyền thuyết, việc truyền đi những sự kiện lớn có ý nghĩa gì trong việc xây dựng cộng đồng?",
+      "correctAnswers": [
+        "Góp phần hình thành và phát triển truyền thống đoàn kết và sức mạnh cộng đồng."
+      ],
+      "incorrectAnswers": [
+        "Tạo nên sự kỳ diệu và phi thực tế trong tâm trí người nghe.",
+        "Không có ý nghĩa gì quan trọng."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Trong truyện cổ tích thần kì ở Lâm Đồng, nhân vật mồ côi thường có những đặc điểm nào?",
+      "correctAnswers": ["Nghèo khổ và bất hạnh, tự mình kiếm sống."],
+      "incorrectAnswers": [
+        "Chăm chỉ, thật thà, siêng năng, trung thực.",
+        "Diệt cọp, diệt đại bàng, diệt ma quái.",
+        "Sản phẩm của cuộc sống gắn bó, hoà mình với tự nhiên."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Truyện cổ tích loài vật ở Lâm Đồng thường phản ánh điều gì?",
+      "correctAnswers": ["Cuộc đấu tranh giữa thiện và ác."],
+      "incorrectAnswers": [
+        "Thống trị và bị trị của thế giới con người.",
+        "Giải thích đặc điểm của một số loài vật.",
+        "Khát vọng về cuộc sống no ấm và hạnh phúc."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Trong truyện cổ tích thần kì ở Lâm Đồng, nhân vật mang lốt thường có đặc điểm nào?",
+      "correctAnswers": [
+        "Sản phẩm của cuộc sống gắn bó, hoà mình với tự nhiên."
+      ],
+      "incorrectAnswers": [
+        "Chăm chỉ, thật thà, siêng năng, trung thực.",
+        "Diệt cọp, diệt đại bàng, diệt ma quái.",
+        "Luôn mang phẩm chất tốt đẹp, sẵn sàng hi sinh bảo vệ cộng đồng."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Truyện cổ tích loài vật ở Lâm Đồng thường tập trung vào điều gì?",
+      "correctAnswers": ["Giải thích đặc điểm của một số loài vật."],
+      "incorrectAnswers": [
+        "Cuộc đấu tranh giữa thiện và ác.",
+        "Phản ánh thế giới con người.",
+        "Khát vọng về cuộc sống no ấm và hạnh phúc."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Những truyện cổ tích loài vật ở Lâm Đồng thường thể hiện điều gì về con người?",
+      "correctAnswers": ["Thế giới loài vật phản chiếu thế giới con người."],
+      "incorrectAnswers": [
+        "Cuộc đấu tranh giữa thiện và ác.",
+        "Khát vọng về cuộc sống no ấm và hạnh phúc.",
+        "Sự tích về niềm vinh quang chiến thắng."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Nhân vật mồ côi trong truyện cổ tích thần kì ở Lâm Đồng thường có phẩm chất nào?",
+      "correctAnswers": ["Chăm chỉ, thật thà, siêng năng, trung thực."],
+      "incorrectAnswers": [
+        "Nghèo khổ và bất hạnh, tự mình kiếm sống.",
+        "Diệt cọp, diệt đại bàng, diệt ma quái.",
+        "Luôn mang phẩm chất tốt đẹp, sẵn sàng hi sinh bảo vệ cộng đồng."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Trong truyện cổ tích loài vật ở Lâm Đồng, những thông điệp chính nào thường được thể hiện?",
+      "correctAnswers": [
+        "Cuộc đấu tranh giữa thiện và ác.",
+        "Thế giới loài vật phản chiếu thế giới con người."
+      ],
+      "incorrectAnswers": [
+        "Giải thích đặc điểm của một số loài vật.",
+        "Khát vọng về cuộc sống no ấm và hạnh phúc."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Nhân vật mồ côi trong truyện cổ tích thần kì ở Lâm Đồng thường được mô tả như thế nào?",
+      "correctAnswers": [
+        "Nghèo khổ và bất hạnh, tự mình kiếm sống.",
+        "Luôn mang phẩm chất tốt đẹp, sẵn sàng hi sinh bảo vệ cộng đồng."
+      ],
+      "incorrectAnswers": [
+        "Chăm chỉ, thật thà, siêng năng, trung thực.",
+        "Diệt cọp, diệt đại bàng, diệt ma quái."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Truyện cổ tích loài vật ở Lâm Đồng thường có mục đích nào sau đây?",
+      "correctAnswers": [
+        "Thể hiện sự tương tác giữa loài vật và con người.",
+        "Truyền đạt những giá trị đạo đức và nhân văn."
+      ],
+      "incorrectAnswers": [
+        "Giải thích đặc điểm của một số loài vật.",
+        "Khát vọng về cuộc sống no ấm và hạnh phúc."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Trong truyện cổ tích thần kì ở Lâm Đồng, nhân vật mang lốt thường được mô tả như thế nào?",
+      "correctAnswers": [
+        "Sản phẩm của cuộc sống gắn bó, hoà mình với tự nhiên."
+      ],
+      "incorrectAnswers": [
+        "Chăm chỉ, thật thà, siêng năng, trung thực.",
+        "Diệt cọp, diệt đại bàng, diệt ma quái.",
+        "Nghèo khổ và bất hạnh, tự mình kiếm sống."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Vì sao những sáng tác văn vần của dân tộc thiểu số ở Lâm Đồng được lưu truyền bằng con đường truyền miệng?",
+      "correctAnswers": [
+        "Kết cấu tương đối chặt chẽ, dễ ghi nhớ và thuận lợi cho việc lưu truyền trong cộng đồng."
+      ],
+      "incorrectAnswers": [
+        "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất.",
+        "Những hoạt động nghi lễ, tín ngưỡng và lễ hội.",
+        "Sự giáo dục và tôn trọng văn hóa bản địa."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Đặc điểm nào thường thấy trong những bài ca nghi lễ của dân tộc thiểu số ở Lâm Đồng?",
+      "correctAnswers": [
+        "Mời thần linh đến chứng giám lòng thành và cầu mưa thuận gió hoà."
+      ],
+      "incorrectAnswers": [
+        "Nội dung thể hiện tình cảm gia đình và tình cảm nam nữ.",
+        "Những hoạt động lao động sản xuất.",
+        "Những kinh nghiệm trong xây dựng cuộc sống và khuyên người lao động."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Trong văn vần dân gian ở Lâm Đồng, bài ca luật tục thường được sử dụng trong hoàn cảnh nào?",
+      "correctAnswers": [
+        "Được đọc lên trong các buổi phân xử các vấn đề xảy ra trong buôn làng và khuyên bảo con người về cách ứng xử."
+      ],
+      "incorrectAnswers": [
+        "Mời thần linh đến chứng giám lòng thành và cầu mưa thuận gió hoà.",
+        "Những hoạt động lao động sản xuất.",
+        "Những kinh nghiệm trong xây dựng cuộc sống và khuyên người lao động."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Các bài ca tình cảm trong văn vần dân gian Lâm Đồng thường thể hiện điều gì?",
+      "correctAnswers": [
+        "Tình cảm của con người, nhất là tình cảm gia đình và tình cảm nam nữ."
+      ],
+      "incorrectAnswers": [
+        "Những hoạt động nghi lễ, tín ngưỡng và lễ hội.",
+        "Những kinh nghiệm trong xây dựng cuộc sống và khuyên người lao động."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Nơi môi trường diễn xướng các bài văn vần thường được tìm thấy trong văn hóa dân gian Lâm Đồng là?",
+      "correctAnswers": [
+        "Trong nhà, bên bếp lửa, lúc lên nương rẫy hay bên suối."
+      ],
+      "incorrectAnswers": [
+        "Trong các nghi lễ truyền thống.",
+        "Bên cạnh các vườn rau và hoa.",
+        "Ở các trung tâm thương mại và kinh doanh."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Vì sao những bài văn vần của dân tộc thiểu số ở Lâm Đồng trở thành một nét văn hoá quan trọng trong cộng đồng?",
+      "correctAnswers": [
+        "Có kết cấu tương đối chặt chẽ, có vần, có điệu, dễ ghi nhớ và thuận lợi cho việc lưu truyền trong cộng đồng."
+      ],
+      "incorrectAnswers": [
+        "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất.",
+        "Những hoạt động nghi lễ, tín ngưỡng và lễ hội.",
+        "Sự giáo dục và tôn trọng văn hóa bản địa."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Tại sao việc diễn xướng các bài văn vần trong văn hóa dân gian Lâm Đồng thường tự do và linh hoạt?",
+      "correctAnswers": [
+        "Để họ có thể hát ở nhiều nơi khác nhau, như trong nhà, bên bếp lửa hay nơi làm việc."
+      ],
+      "incorrectAnswers": [
+        "Để họ có thể hát trong các nghi lễ truyền thống.",
+        "Để họ có thể hát ở những trung tâm giáo dục và văn hóa.",
+        "Để họ có thể hát ở những buổi biểu diễn chính thức."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleChoices",
+      "question": "Đặc điểm nào của bài ca tình cảm trong văn vần dân gian Lâm Đồng?",
+      "correctAnswers": [
+        "Thể hiện tình cảm qua hình thức đối đáp giữa nam và nữ."
+      ],
+      "incorrectAnswers": [
+        "Thể hiện những hoạt động nghi lễ và tín ngưỡng.",
+        "Thể hiện những kinh nghiệm trong xây dựng cuộc sống.",
+        "Thể hiện sự đoàn kết và cố gắng lao động của cộng đồng."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Những sáng tác văn vần của dân tộc Mạ, Cơ Ho, Chu Ru ở Lâm Đồng chủ yếu thuộc vào loại nào?",
+      "correctAnswers": [
+        "Bài ca nghi lễ",
+        "Bài ca luật tục",
+        "Bài ca lao động"
+      ],
+      "incorrectAnswers": ["Bài ca tình cảm", "Bài ca hành động chính trị"]
+    },
+    {
+      "categoryName": "Chuyên đề 3",
+      "type": "multipleResponses",
+      "question": "Các bài văn vần của dân tộc thiểu số ở Lâm Đồng thường được trình bày như thế nào?",
+      "correctAnswers": [
+        "Kết hợp lời văn với giai điệu và nhạc cụ dân gian",
+        "Thể hiện giai điệu trữ tình"
+      ],
+      "incorrectAnswers": [
+        "Đọc lên như bản thảo văn bản",
+        "Biểu diễn bằng múa và vũ điệu"
+      ]
+    }
+  ],
+  "chuyende4": [
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Theo bạn, yếu tố nào đã thúc đẩy thực dân Pháp tiến hành xâm lược và khám phá Lâm Đồng từ năm 1893?",
+      "correctAnswers": [
+        "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất."
+      ],
+      "incorrectAnswers": [
+        "Thời kỳ Cách mạng tháng Tám.",
+        "Sự phản kháng dữ dội của nhân dân.",
+        "Sự giáo dục và tôn trọng văn hóa bản địa."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Năm 1893, ai được giao nhiệm vụ thăm dò tuyến đường từ Sài Gòn lên Cao nguyên Trung phần, dẫn đến việc phát hiện cao nguyên đẹp như Lâm Viên?",
+      "correctAnswers": ["Alexandre Yersin", "Bác sĩ A.Yersin"],
+      "incorrectAnswers": ["Paul Doumer", "Phan Bội Châu"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Ai là người đã đặt tên cho cao nguyên đẹp như Lâm Viên?",
+      "correctAnswers": ["Henri Mansuy"],
+      "incorrectAnswers": ["Alexandre Yersin", "Paul Doumer", "Phan Bội Châu"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Người Pháp nào đã đóng góp cho việc khám phá, phát triển Lâm Đồng?",
+      "correctAnswers": ["Henri Mansuy", "Paul Doumer"],
+      "incorrectAnswers": ["Alexandre Yersin", "Phan Bội Châu"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Nguyên nhân chính gây ra cuộc kháng chiến Yên Thế?",
+      "correctAnswers": ["Sự áp bức của chính quyền thuộc địa Pháp."],
+      "incorrectAnswers": [
+        "Nguyên tắc cải cách hệ thống chính trị.",
+        "Sự thiếu hụt văn hóa dân tộc.",
+        "Sự giáo dục và tôn trọng văn hóa bản địa."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Nền kinh tế chủ yếu của tỉnh Lâm Đồng, đặc biệt là trong lĩnh vực nông nghiệp công nghệ cao là gì?",
+      "correctAnswers": ["Nông nghiệp"],
+      "incorrectAnswers": ["Khai thác mỏ", "Sản xuất công nghiệp", "Du lịch"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Điều gì đã góp phần quan trọng vào việc tăng năng suất nông nghiệp ở tỉnh Lâm Đồng?",
+      "correctAnswers": ["Áp dụng các mô hình canh tác hiệu quả"],
+      "incorrectAnswers": [
+        "Chính sách hỗ trợ của chính phủ",
+        "Sự thay đổi khí hậu",
+        "Sự suy giảm nhu cầu về sản phẩm nông nghiệp"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Các khu vực nào ở Lâm Đồng nổi tiếng với sản xuất nông nghiệp chuyên môn và các sản phẩm được chứng nhận an toàn?",
+      "correctAnswers": [
+        "Đà Lạt",
+        "Lạc Dương",
+        "Đơn Dương",
+        "Đức Trọng",
+        "Lâm Hà"
+      ],
+      "incorrectAnswers": ["Bảo Lộc", "Di Linh", "Đạ Tẻh", "Bảo Lâm"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Loại động vật nào được nuôi chủ yếu ở Lâm Đồng để sản xuất thịt?",
+      "correctAnswers": ["Lợn, bò"],
+      "incorrectAnswers": ["Ngựa, cừu", "Gà, vịt", "Cá, thỏ"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Những sản phẩm nông nghiệp chính được chứng nhận theo tiêu chuẩn VietGAP và GlobalGAP ở tỉnh Lâm Đồng là gì?",
+      "correctAnswers": ["Hoa, rau, trái cây"],
+      "incorrectAnswers": ["Cà phê, trà", "Lúa, lúa mạch", "Gia vị, thảo mộc"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Năm 2020, tỉnh Lâm Đồng đã sản xuất bao nhiêu tấn lương thực có hạt?",
+      "correctAnswers": ["Gần 190 nghìn tấn"],
+      "incorrectAnswers": [
+        "Gần 100 nghìn tấn",
+        "Trên 200 nghìn tấn",
+        "Dưới 50 nghìn tấn"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Nơi nào trong tỉnh Lâm Đồng chủ yếu nuôi gia cầm?",
+      "correctAnswers": [
+        "Thành phố Bảo Lộc và các huyện Bảo Lâm, Di Linh, Đức Trọng và Lâm Hà"
+      ],
+      "incorrectAnswers": [
+        "Các huyện Đơn Dương, Đức Trọng",
+        "Thành phố Đà Lạt",
+        "Các huyện Đạ Tẻh, Lạc Dương"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Các phương pháp canh tác hiệu quả được áp dụng trong nông nghiệp ở Lâm Đồng bao gồm những gì?",
+      "correctAnswers": [
+        "Công nghệ trồng thuỷ canh",
+        "Công nghệ tưới nhỏ giọt",
+        "Cấy ghép mô trong phòng thí nghiệm",
+        "Trồng trong nhà kính",
+        "Nhà lưới"
+      ],
+      "incorrectAnswers": [
+        "Công nghệ truyền thống",
+        "Phương pháp canh tác tự nhiên"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Trong thời gian gần đây, tỉnh Lâm Đồng chú trọng phát triển loại cây nào có giá trị hàng hoá cao và chất lượng ngày càng tốt?",
+      "correctAnswers": [
+        "Cây đặc sản, dược liệu, cây ăn quả đặc sản của vùng ôn đới"
+      ],
+      "incorrectAnswers": [
+        "Cây lúa, cây hoa",
+        "Cây cà phê, cây chè",
+        "Cây rau, cây quả"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Sản lượng thịt lợn hơi xuất chuồng ở tỉnh Lâm Đồng đạt bao nhiêu tấn vào năm 2020?",
+      "correctAnswers": ["Hơn 64 nghìn tấn"],
+      "incorrectAnswers": [
+        "Dưới 30 nghìn tấn",
+        "50 nghìn tấn",
+        "Trên 100 nghìn tấn"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Theo bạn, yếu tố nào đã thúc đẩy thực dân Pháp tiến hành xâm lược và khám phá Lâm Đồng từ năm 1893?",
+      "correctAnswers": [
+        "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất."
+      ],
+      "incorrectAnswers": [
+        "Thời kỳ Cách mạng tháng Tám.",
+        "Sự phản kháng dữ dội của nhân dân.",
+        "Sự giáo dục và tôn trọng văn hóa bản địa."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Năm 1893, ai được giao nhiệm vụ thăm dò tuyến đường từ Sài Gòn lên Cao nguyên Trung phần, dẫn đến việc phát hiện cao nguyên đẹp như Lâm Viên?",
+      "correctAnswers": ["Alexandre Yersin", "Bác sĩ A.Yersin"],
+      "incorrectAnswers": ["Paul Doumer", "Phan Bội Châu"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Năm nào diện tích rừng bị cháy tăng mạnh nhất so với năm trước đó?",
+      "correctAnswers": ["Năm 2020"],
+      "incorrectAnswers": ["Năm 2019", "Năm 2015", "Năm 2021"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Theo thông tin được cung cấp, những hoạt động nào được đề xuất để phát triển bền vững ngành lâm nghiệp ở Lâm Đồng?",
+      "correctAnswers": [
+        "Trồng mới rừng tập trung",
+        "Bảo vệ diện tích rừng hiện có",
+        "Tăng cường khai thác các loại lâm sản dưới tán rừng"
+      ],
+      "incorrectAnswers": [
+        "Gia tăng diện tích chặt phá rừng",
+        "Giảm diện tích rừng sản xuất trồng mới"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Những huyện nào có tỉ lệ che phủ rừng lớn nhất?",
+      "correctAnswers": ["Cát Tiên", "Đạ Huoai", "Đạ Tẻh"],
+      "incorrectAnswers": ["Bảo Lâm", "Di Linh", "Đạ Huoai"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Trong năm 2020, tỉnh Lâm Đồng sản xuất bao nhiêu tấn thuỷ sản?",
+      "correctAnswers": ["8,566.2 tấn"],
+      "incorrectAnswers": ["8,289.7 tấn", "276.5 tấn", "10,000 tấn"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Các huyện nào trong tỉnh Lâm Đồng tập trung sản lượng thuỷ sản khai thác vào năm 2020?",
+      "correctAnswers": ["Lâm Hà", "Di Linh"],
+      "incorrectAnswers": ["Đức Trọng", "Bảo Lâm"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Định hướng phát triển nông nghiệp của tỉnh Lâm Đồng đến năm 2050 nhấn mạnh vào điều gì?",
+      "correctAnswers": ["Phát triển nông nghiệp công nghệ cao"],
+      "incorrectAnswers": [
+        "Mô hình nông nghiệp truyền thống",
+        "Tăng cường sản xuất nông nghiệp xanh"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Mục tiêu của việc tạo ra các giống mới trong nông nghiệp là gì?",
+      "correctAnswers": ["Thích ứng với biến đổi khí hậu và môi trường"],
+      "incorrectAnswers": [
+        "Tăng cường sản lượng nông sản",
+        "Đa dạng hóa cây trồng"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Nguồn lực nào được nhấn mạnh trong việc phát triển nông nghiệp của tỉnh Lâm Đồng?",
+      "correctAnswers": ["Khoa học - Công nghệ", "Nguồn tài nguyên sạch"],
+      "incorrectAnswers": ["Vốn đầu tư lớn", "Lực lượng lao động"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Công nghiệp ảnh hưởng như thế nào đến đời sống người dân Lâm Đồng?",
+      "correctAnswers": [
+        "Nâng cao chất lượng cuộc sống và tạo việc làm cho nguồn lao động."
+      ],
+      "incorrectAnswers": [
+        "Tạo ra những vấn đề môi trường mới.",
+        "Giảm sự phát triển kinh tế tỉnh.",
+        "Không có ảnh hưởng nào đến đời sống người dân."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Ngành công nghiệp ở Lâm Đồng góp phần vào việc nào sau đây?",
+      "correctAnswers": [
+        "Tăng trưởng kinh tế tỉnh và cung cấp hàng tiêu dùng cho người dân."
+      ],
+      "incorrectAnswers": [
+        "Giảm cơ cấu kinh tế tỉnh.",
+        "Gây ra tình trạng thất nghiệp gia tăng.",
+        "Không ảnh hưởng gì đến tăng trưởng kinh tế tỉnh."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Tỷ trọng công nghiệp trong cơ cấu kinh tế của tỉnh Lâm Đồng thay đổi như thế nào theo thời gian?",
+      "correctAnswers": ["Tăng lên theo hướng tích cực."],
+      "incorrectAnswers": [
+        "Giảm đi dần từng năm.",
+        "Không có sự biến đổi gì.",
+        "Chỉ tăng trưởng ở giai đoạn 2011 - 2015."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Các kết quả tích cực mà ngành công nghiệp góp phần đối với Lâm Đồng là gì?",
+      "correctAnswers": [
+        "Nâng cao chất lượng cuộc sống.",
+        "Tăng thu nhập cho nguồn lao động.",
+        "Cung cấp hàng tiêu dùng cho người dân."
+      ],
+      "incorrectAnswers": [
+        "Gây ô nhiễm môi trường.",
+        "Giảm thu nhập cho nguồn lao động.",
+        "Không có tác động tích cực nào."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Những biến đổi mà ngành công nghiệp gây ra trong không gian kinh tế - xã hội - môi trường địa phương là gì?",
+      "correctAnswers": ["Tạo việc làm.", "Thay đổi tác phong làm việc."],
+      "incorrectAnswers": [
+        "Giảm cung cấp hàng tiêu dùng.",
+        "Không có biến đổi gì đáng kể."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Đối với người lao động, ngành công nghiệp ở Lâm Đồng có ảnh hưởng như thế nào?",
+      "correctAnswers": ["Tạo ra cơ hội việc làm và tăng thu nhập."],
+      "incorrectAnswers": [
+        "Gây ra sự mất mát việc làm.",
+        "Không có ảnh hưởng gì đến người lao động.",
+        "Chỉ ảnh hưởng đến những người làm trong lĩnh vực công nghiệp."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Tại sao ngành công nghiệp được coi là một phần quan trọng trong phát triển kinh tế tỉnh Lâm Đồng?",
+      "correctAnswers": [
+        "Góp phần tăng trưởng kinh tế và cung cấp sản phẩm cho thị trường tiêu thụ."
+      ],
+      "incorrectAnswers": [
+        "Chỉ tạo ra hàng hóa không cần thiết.",
+        "Gây ra khí thải môi trường độc hại.",
+        "Không có ảnh hưởng đáng kể nào đối với kinh tế tỉnh."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Những cơ sở sản xuất công nghiệp ở Lâm Đồng thường tập trung ở đâu?",
+      "correctAnswers": ["Các khu công nghiệp hoặc cụm công nghiệp."],
+      "incorrectAnswers": [
+        "Các khu dân cư trung tâm.",
+        "Vùng quê xa xôi và hẻo lánh.",
+        "Không có sự tập trung cụ thể nào."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Công nghiệp ở Lâm Đồng gây ra những tác động tích cực nào đối với môi trường?",
+      "correctAnswers": [
+        "Tạo ra việc làm cho người dân địa phương.",
+        "Phát triển cơ sở hạ tầng kỹ thuật.",
+        "Tăng cường sử dụng nguồn năng lượng sạch."
+      ],
+      "incorrectAnswers": [
+        "Gây ra ô nhiễm không khí và nước.",
+        "Giảm đa dạng sinh học.",
+        "Không gây ra tác động tích cực nào đối với môi trường."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Những điều kiện gì đã tạo điều kiện thuận lợi cho sự phát triển của ngành công nghiệp ở Lâm Đồng?",
+      "correctAnswers": [
+        "Vị trí địa lý thuận lợi.",
+        "Nguyên liệu dồi dào từ thiên nhiên.",
+        "Sự đầu tư và hỗ trợ từ chính quyền địa phương."
+      ],
+      "incorrectAnswers": [
+        "Khí hậu không ổn định.",
+        "Sự phản đối từ cộng đồng dân cư.",
+        "Không có điều kiện thuận lợi nào."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Tính đến năm 2020, tỉ trọng công nghiệp trong GRDP của tỉnh Lâm Đồng là bao nhiêu phần trăm?",
+      "correctAnswers": ["Gần 20%"],
+      "incorrectAnswers": ["Dưới 10%", "Khoảng 30%", "Trên 40%"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Những ngành công nghiệp chủ lực của tỉnh Lâm Đồng vào năm 2020 bao gồm những sản phẩm nào?",
+      "correctAnswers": [
+        "Chè",
+        "Cà phê chế biến",
+        "Rau sấy khô",
+        "Quần áo may sẵn",
+        "Gạch xây dựng",
+        "Alumin",
+        "Phân bón NPK"
+      ],
+      "incorrectAnswers": ["Sản phẩm dệt may", "Đồ gốm sứ"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Tại sao các ngành công nghiệp chế biến, chế tạo được ưu tiên phát triển ở tỉnh Lâm Đồng?",
+      "correctAnswers": [
+        "Tận vùng nguyên liệu, nhân lực có kinh nghiệm sản xuất, sử dụng công nghệ hiện đại, thân thiện môi trường"
+      ],
+      "incorrectAnswers": [
+        "Ưu tiên chính sách hỗ trợ",
+        "Dự án đầu tư lớn từ nước ngoài"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Trong những năm gần đây, tốc độ tăng trưởng giá trị sản xuất công nghiệp của Lâm Đồng là bao nhiêu phần trăm trung bình mỗi năm?",
+      "correctAnswers": ["10,2%"],
+      "incorrectAnswers": ["Dưới 5%", "Khoảng 15%", "Trên 20%"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Các ngành tiểu thủ công nghiệp truyền thống phát triển ở Lâm Đồng bao gồm những sản phẩm nào?",
+      "correctAnswers": [
+        "Mĩ nghệ",
+        "Đan lát mây tre nứa",
+        "Tranh thêu",
+        "Tranh bút lửa"
+      ],
+      "incorrectAnswers": ["Công nghiệp gỗ", "Sản phẩm sơn mài"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Trong số các cơ sở sản xuất công nghiệp tiêu biểu của Lâm Đồng, cơ sở sản xuất nào thu hút đầu tư nước ngoài?",
+      "correctAnswers": ["Nhà máy sản xuất Dược phẩm Nanogen"],
+      "incorrectAnswers": [
+        "Nhà máy bia Sài Gòn – Lâm Đồng",
+        "Nhà máy Sợi len lông cừu",
+        "Tổ hợp bôxit nhôm"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Năm nào có sự tập trung lớn của lực lượng lao động vào ngành công nghiệp chế biến, chế tạo tại Lâm Đồng?",
+      "correctAnswers": ["Năm 2020"],
+      "incorrectAnswers": ["Năm 2021", "Năm 2019", "Năm 2018"]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Các khu công nghiệp nào thuộc tỉnh Lâm Đồng đã thu hút số lượng dự án đầu tư nước ngoài?",
+      "correctAnswers": ["Khu công nghiệp Lộc Sơn", "Khu công nghiệp Phú Hội"],
+      "incorrectAnswers": [
+        "Cụm công nghiệp Gia Hiệp",
+        "Cụm công nghiệp Đinh Văn"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleChoices",
+      "question": "Vùng đất nào đã được phát hiện và đánh giá có tiềm năng kinh tế, thúc đẩy sự phát triển của công nghiệp ở Lâm Đồng?",
+      "correctAnswers": ["Cao nguyên Lâm Viên"],
+      "incorrectAnswers": [
+        "Đồi chè Cầu Đất",
+        "Rừng thông Đà Lạt",
+        "Thác Datanla"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 4",
+      "type": "multipleResponses",
+      "question": "Năm 2021, nhóm huyện nào tập trung chủ yếu các cơ sở sản xuất công nghiệp tại Lâm Đồng?",
+      "correctAnswers": ["Lâm Hà", "Đức Trọng", "Di Linh"],
+      "incorrectAnswers": ["Bảo Lộc", "Đà Lạt"]
+    }
+  ],
+  "chuyende5": [
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo định nghĩa, đô thị hoá được biểu hiện như thế nào trong xã hội?",
+      "correctAnswers": [
+        "Sự tăng nhanh số lượng và quy mô của các điểm dân cư đô thị."
+      ],
+      "incorrectAnswers": [
+        "Sự tập trung dân cư trong vùng nông thôn.",
+        "Sự giảm bớt số lượng cư dân ở thành phố lớn.",
+        "Sự chuyển đổi từ đô thị sang nông thôn."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Tại sao đô thị hoá của Lâm Đồng được xem là cao nhất so với các tỉnh Tây Nguyên khác?",
+      "correctAnswers": [
+        "Tỉ lệ đô thị hoá cao nhất trong khu vực.",
+        "Số dân tập trung chủ yếu ở các đô thị lớn."
+      ],
+      "incorrectAnswers": [
+        "Dân số nông thôn ở Lâm Đồng ít hơn so với các tỉnh khác.",
+        "Đô thị hóa của Lâm Đồng không đáng chú ý."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Trong giai đoạn 2010 - 2020, tốc độ đô thị hoá của Lâm Đồng so với các tỉnh khác ở vùng Kinh tế trọng điểm phía Nam như thế nào?",
+      "correctAnswers": ["Tốc độ đô thị hoá của Lâm Đồng chậm hơn."],
+      "incorrectAnswers": [
+        "Tốc độ đô thị hoá của Lâm Đồng nhanh hơn.",
+        "Tốc độ đô thị hoá của Lâm Đồng tương đương với các tỉnh khác.",
+        "Không có sự khác biệt đáng kể về tốc độ đô thị hoá."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Các thành phố lớn nào là điểm tập trung chủ yếu của dân cư Lâm Đồng?",
+      "correctAnswers": ["Đà Lạt", "Bảo Lộc"],
+      "incorrectAnswers": ["Huyện Đức Trọng", "Huyện Di Linh"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Tại sao việc đẩy nhanh đô thị hoá của Lâm Đồng được coi là cần thiết?",
+      "correctAnswers": [
+        "Để theo kịp với các tỉnh khác trong khu vực về tốc độ đô thị hoá."
+      ],
+      "incorrectAnswers": [
+        "Đô thị hoá không có tác động lớn đến phát triển kinh tế - xã hội.",
+        "Lâm Đồng không cần phải tăng cường đô thị hoá."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo bạn, yếu tố nào đã thúc đẩy thực dân Pháp tiến hành xâm lược và khám phá Lâm Đồng từ năm 1893?",
+      "correctAnswers": [
+        "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất."
+      ],
+      "incorrectAnswers": [
+        "Thời kỳ Cách mạng tháng Tám.",
+        "Sự phản kháng dữ dội của nhân dân.",
+        "Sự giáo dục và tôn trọng văn hóa bản địa."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Năm 1893, ai được giao nhiệm vụ thăm dò tuyến đường từ Sài Gòn lên Cao nguyên Trung phần, dẫn đến việc phát hiện cao nguyên đẹp như Lâm Viên?",
+      "correctAnswers": ["Alexandre Yersin", "Bác sĩ A.Yersin"],
+      "incorrectAnswers": ["Paul Doumer", "Phan Bội Châu"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Tỉ lệ dân thành thị tại Lâm Đồng trong khoảng thời gian 2010 - 2020 đã thay đổi như thế nào?",
+      "correctAnswers": ["Tăng 1,26% so với năm 2010."],
+      "incorrectAnswers": [
+        "Giảm 1,26% so với năm 2010.",
+        "Tăng 5% so với năm 2010.",
+        "Không có sự thay đổi nào."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Điều gì là hạn chế chính của hệ thống giao thông đô thị tại Lâm Đồng?",
+      "correctAnswers": [
+        "Các tuyến đường quốc lộ đang xuống cấp như 55, 27, 28.",
+        "Thiếu tính đồng bộ trong việc liên kết vùng."
+      ],
+      "incorrectAnswers": [
+        "Đường cao tốc kết nối với các tỉnh miền Đông Nam Bộ.",
+        "Tốc độ đô thị hóa không tương xứng với tiềm năng."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo thông tin, vào năm 2020, việc thu hút đầu tư trực tiếp của nước ngoài vào phát triển đô thị Lâm Đồng đã đạt được bao nhiêu dự án mới?",
+      "correctAnswers": ["03 dự án cấp phép mới."],
+      "incorrectAnswers": [
+        "10 dự án cấp phép mới.",
+        "Không có dự án nào được cấp phép mới.",
+        "50 dự án cấp phép mới."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo thông tin đưa ra, tỉ suất di cư thuần của Lâm Đồng giảm từ năm 2010 đến năm 2020 do nguyên nhân gì?",
+      "correctAnswers": [
+        "Người dân di cư sang các tỉnh khác để đi làm, đi học, ..."
+      ],
+      "incorrectAnswers": [
+        "Sự tăng trưởng kinh tế trong tỉnh.",
+        "Sự giảm đầu tư vào đô thị hoá.",
+        "Sự thay đổi chính sách di cư của chính phủ."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo thông tin, mức độ tập trung dân cư của Lâm Đồng không cao nhất ở đâu?",
+      "correctAnswers": ["Huyện Lạc Dương"],
+      "incorrectAnswers": [
+        "Thành phố Đà Lạt.",
+        "Huyện Đức Trọng.",
+        "Huyện Đơn Dương."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Theo thông tin, đô thị hoá ảnh hưởng đến các khía cạnh nào của tỉnh Lâm Đồng? (Chọn tất cả các đáp án đúng)",
+      "correctAnswers": [
+        "Sự phân bố dân cư.",
+        "Cơ cấu kinh tế.",
+        "Tỉ lệ thất nghiệp và việc làm."
+      ],
+      "incorrectAnswers": ["Đầu tư vào nông nghiệp.", "Quy mô dân số tỉnh."]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo thông tin, tỉ lệ thất nghiệp trong độ tuổi lao động năm 2020 của tỉnh Lâm Đồng giảm đến mức nào so với năm 2010?",
+      "correctAnswers": ["Giảm từ 2,77% xuống còn 1%"],
+      "incorrectAnswers": [
+        "Tăng lên 5%.",
+        "Giữ nguyên ở mức 2,77%.",
+        "Giảm xuống 0,5%."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Theo thông tin, đô thị hoá có ảnh hưởng đến những gì trong tỉnh Lâm Đồng? (Chọn tất cả các đáp án đúng)",
+      "correctAnswers": [
+        "Sự phân bố không đồng đều của dân cư.",
+        "Cơ cấu lao động theo ngành và trình độ học vấn."
+      ],
+      "incorrectAnswers": ["Tỉ suất di cư.", "Tỷ lệ dân số đô thị."]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo thông tin, tại đâu có mật độ dân số thấp nhất ở tỉnh Lâm Đồng năm 2020?",
+      "correctAnswers": ["Huyện Lạc Dương"],
+      "incorrectAnswers": [
+        "Thành phố Đà Lạt.",
+        "Huyện Đức Trọng.",
+        "Huyện Đơn Dương."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo thông tin, trong khu vực nào của tỉnh Lâm Đồng dân cư tập trung sống nhiều nhất?",
+      "correctAnswers": [
+        "Ven các đường quốc lộ, ven các thị trấn như ở thành phố Bảo Lộc, Đà Lạt, huyện Đức Trọng, huyện Đơn Dương."
+      ],
+      "incorrectAnswers": [
+        "Khu vực nông thôn.",
+        "Các huyện Đam Rông, Đạ Tẻh.",
+        "Thành phố Đà Lạt."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Theo thông tin, đô thị hoá có ảnh hưởng đến các khía cạnh nào trong tỉnh Lâm Đồng? (Chọn tất cả các đáp án đúng)",
+      "correctAnswers": [
+        "Sự phát triển kinh tế.",
+        "Thay đổi cơ cấu lao động theo ngành và trình độ học vấn."
+      ],
+      "incorrectAnswers": [
+        "Sự thay đổi tỷ lệ di cư.",
+        "Sự tăng trưởng dân số đô thị."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo thông tin, tỉ lệ thiếu việc làm ở khu vực nào có xu hướng thấp nhất trong tỉnh Lâm Đồng năm 2020?",
+      "correctAnswers": ["Khu vực nông thôn."],
+      "incorrectAnswers": [
+        "Thành phố Đà Lạt.",
+        "Khu vực công nghiệp và dịch vụ.",
+        "Huyện Đơn Dương."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Theo thông tin, đô thị hoá ảnh hưởng đến những gì trong tỉnh Lâm Đồng? (Chọn tất cả các đáp án đúng)",
+      "correctAnswers": [
+        "Sự phân bố không đồng đều của dân cư.",
+        "Thay đổi cơ cấu lao động theo ngành và trình độ học vấn."
+      ],
+      "incorrectAnswers": [
+        "Sự tăng trưởng dân số đô thị.",
+        "Sự thay đổi tỷ suất di cư."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Các hoạt động nào sau đây gây ô nhiễm cục bộ tại một số nơi trong quá trình đô thị hoá?",
+      "correctAnswers": ["Công nghiệp", "Khai thác khoáng sản"],
+      "incorrectAnswers": ["Du lịch", "Nông nghiệp"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo Cục thống kê, tỷ lệ thu gom rác đạt bao nhiêu phần trăm trên địa bàn tỉnh Lâm Đồng?",
+      "correctAnswers": ["88,2%"],
+      "incorrectAnswers": ["99%", "11,8%"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Các biện pháp nào sau đây Đà Lạt đã thực hiện để bảo vệ môi trường?",
+      "correctAnswers": [
+        "Tăng diện tích phủ xanh đô thị",
+        "Tăng cường trồng thêm cây xanh",
+        "Áp dụng công nghệ mới theo hướng công nghệ sạch",
+        "Tăng cường công tác quan trắc, giám sát môi trường"
+      ],
+      "incorrectAnswers": ["Tăng tỷ lệ thu gom rác đến 100%"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Những đơn vị nào sau đây đã có hoạt động xử lí chất thải rắn tại Lâm Đồng?",
+      "correctAnswers": ["Đà Lạt", "Bảo Lộc", "Đơn Dương"],
+      "incorrectAnswers": ["Sài Gòn"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo thông tin cung cấp, thành phố nào trong Lâm Đồng có tỉ lệ thu gom rác thải sinh hoạt không đạt 100%?",
+      "correctAnswers": ["Đà Lạt"],
+      "incorrectAnswers": ["Bảo Lộc", "Đơn Dương"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Đâu là một trong những nguyên nhân chính gây ô nhiễm môi trường nước tại các thành phố trong tỉnh Lâm Đồng?",
+      "correctAnswers": ["Xả thải từ công nghiệp"],
+      "incorrectAnswers": [
+        "Sự gia tăng diện tích xanh",
+        "Sự tăng cường trồng cây",
+        "Sự giảm lượng rác thải"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo thông tin cung cấp, tại thành phố nào trong Lâm Đồng có lượng rác thải sinh hoạt phát sinh hàng ngày ít nhất?",
+      "correctAnswers": ["Bảo Lộc"],
+      "incorrectAnswers": ["Đà Lạt", "Đơn Dương"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Các biện pháp nào sau đây có thể giúp giảm ô nhiễm môi trường nước tại Lâm Đồng?",
+      "correctAnswers": [
+        "Xử lí thải nước từ công nghiệp",
+        "Tăng cường giám sát chất lượng nước",
+        "Giảm sử dụng hóa chất độc hại trong nông nghiệp"
+      ],
+      "incorrectAnswers": ["Tăng cường duy trì môi trường tự nhiên nguyên thủy"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo thông tin cung cấp, tỉ lệ thu gom rác thải sinh hoạt ở Đà Lạt đạt bao nhiêu phần trăm?",
+      "correctAnswers": ["99%"],
+      "incorrectAnswers": ["88,2%", "100%"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Hoạt động nào gây ô nhiễm không khí trong quá trình đô thị hoá?",
+      "correctAnswers": ["Công nghiệp", "Giao thông"],
+      "incorrectAnswers": ["Trồng cây", "Du lịch"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo chiến lược định hướng, thành phố nào trong Lâm Đồng được xác định là trung tâm tiểu vùng và kết nối giao thương của vùng tỉnh với các vùng lân cận?",
+      "correctAnswers": ["Bảo Lộc"],
+      "incorrectAnswers": ["Đà Lạt", "Di Linh", "Đức Trọng"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Theo định hướng, những đô thị nào được xác định là các đô thị theo chức năng tổng hợp?",
+      "correctAnswers": [
+        "Đức Trọng",
+        "Thạnh Mỹ",
+        "Lạc Dương",
+        "Lộc Thắng",
+        "Đinh Văn",
+        "Madaguôi",
+        "Đạ Tẻh",
+        "Bằng Lăng",
+        "Cát Tiên"
+      ],
+      "incorrectAnswers": ["Di Linh", "Bảo Lộc", "Đà Lạt", "Nam Ban"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Đô thị nào được xác định là đô thị trung tâm thương mại dịch vụ cấp vùng trong tỉnh Lâm Đồng?",
+      "correctAnswers": ["Di Linh"],
+      "incorrectAnswers": ["Đà Lạt", "Bảo Lộc", "Đức Trọng", "D'ran"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Theo dự kiến, đến năm 2025, tỉ lệ đô thị hoá ở Lâm Đồng sẽ đạt bao nhiêu phần trăm và có bao nhiêu đô thị loại II?",
+      "correctAnswers": ["54%", "01"],
+      "incorrectAnswers": ["58,8%", "22"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo kế hoạch, đô thị nào sẽ được phát triển để trở thành đô thị hiện đại, đẳng cấp quốc tế với đặc thù về khí hậu, cảnh quan tự nhiên và di sản kiến trúc?",
+      "correctAnswers": ["Đà Lạt"],
+      "incorrectAnswers": ["Bảo Lộc", "Di Linh", "Đức Trọng", "D'ran"]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Đâu không phải là một trong những giải pháp cụ thể cho việc phát triển đô thị bền vững ở Lâm Đồng?",
+      "correctAnswers": ["Sự phát triển các khu công nghiệp lớn"],
+      "incorrectAnswers": [
+        "Hoàn thiện cơ chế, chính sách cho quá trình đô thị hoá",
+        "Xác định tập trung đầu tư dự án công trình trọng điểm",
+        "Ưu tiên đầu tư khoa học công nghệ trong phát triển đô thị"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Các giải pháp nào được đề xuất để phát triển nguồn nhân lực chất lượng cao trong liên quan đến phát triển đô thị ở Lâm Đồng?",
+      "correctAnswers": [
+        "Tập trung giải pháp phát triển nguồn nhân lực chất lượng cao",
+        "Ưu tiên đầu tư khoa học công nghệ trong phát triển đô thị"
+      ],
+      "incorrectAnswers": [
+        "Tập trung xây dựng các khu dân cư mới",
+        "Tăng cường quản lý hạ tầng đô thị"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Trong việc phát triển đô thị ở Lâm Đồng, điều gì được đề cập như một phần quan trọng của quá trình này?",
+      "correctAnswers": [
+        "Hiện đại hóa hạ tầng đô thị để thích ứng với biến đổi khí hậu"
+      ],
+      "incorrectAnswers": [
+        "Tập trung mở rộng đất đai cho các dự án xây dựng mới",
+        "Thúc đẩy việc xây dựng các khu công nghiệp quy mô lớn",
+        "Tăng cường quản lý hạ tầng nông thôn"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Theo nội dung, những giải pháp nào được đề xuất để huy động các nguồn vốn để phát triển đô thị xanh và sinh thái bền vững?",
+      "correctAnswers": [
+        "Tập trung giải pháp huy động các nguồn vốn",
+        "Cơ chế khuyến khích các dự án phát triển đô thị xanh"
+      ],
+      "incorrectAnswers": [
+        "Xây dựng các công trình hạ tầng cao ốc",
+        "Phát triển khu dân cư mới"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo nội dung, cái gì được xác định là mục tiêu tập trung đầu tư dự án công trình đô thị?",
+      "correctAnswers": [
+        "Thu hút nguồn lực, phát triển hệ thống hạ tầng đô thị đồng bộ, hiện đại, liên kết"
+      ],
+      "incorrectAnswers": [
+        "Xây dựng nhiều tòa nhà cao tầng",
+        "Tập trung vào việc mở rộng mạng lưới giao thông",
+        "Phát triển các công trình dân dụng nhỏ"
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo Quyết định 704/QĐ-TTg, ngày 12/5/2014 của Thủ tướng Chính phủ, mục tiêu chính của quy hoạch phát triển Đà Lạt giai đoạn tiếp theo là gì?",
+      "correctAnswers": [
+        "Xây dựng thành phố Đà Lạt thành đô thị hiện đại, thành phố sáng tạo, trung tâm du lịch sinh thái, nghỉ dưỡng cao cấp."
+      ],
+      "incorrectAnswers": [
+        "Tăng cường sản xuất nông nghiệp và phát triển các khu vực nông thôn.",
+        "Mở rộng không gian đô thị một cách ngẫu nhiên và không có kế hoạch.",
+        "Tập trung vào việc phát triển các công trình công cộng lớn như sân bay và các trung tâm mua sắm."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Theo quy hoạch phát triển 'Thành phố trong rừng, rừng trong thành phố', mục tiêu chính là gì?",
+      "correctAnswers": [
+        "Gắn kết thành phố Đà Lạt với cảnh quan tự nhiên và văn hóa, bảo tồn di sản danh lam thắng cảnh."
+      ],
+      "incorrectAnswers": [
+        "Loại bỏ hoàn toàn các khu vực rừng để xây dựng đô thị.",
+        "Phát triển thành phố mà không cần quan tâm đến việc bảo tồn môi trường.",
+        "Tập trung vào việc xây dựng các công trình công cộng lớn như khu vui chơi giải trí."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Theo quy hoạch phát triển Bảo Lộc, những mục tiêu nào được đề ra để thúc đẩy phát triển của đô thị này?",
+      "correctAnswers": [
+        "Mở rộng và xây dựng đô thị Bảo Lộc phát triển bền vững.",
+        "Hoàn thiện, nâng cao chất lượng các tiêu chí đô thị loại II.",
+        "Đẩy nhanh quá trình triển khai các dự án hạ tầng giao thông."
+      ],
+      "incorrectAnswers": [
+        "Giảm bớt diện tích đô thị để tạo không gian cho nông nghiệp.",
+        "Tập trung chỉ vào việc xây dựng các công trình cao ốc chọc trời.",
+        "Loại bỏ hoàn toàn bản sắc văn hóa đặc thù của Bảo Lộc."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleChoices",
+      "question": "Để Bảo Lộc trở thành đô thị sinh thái hiện đại, quy hoạch nhấn mạnh vào việc gì?",
+      "correctAnswers": [
+        "Hạ tầng xã hội theo chiến lược tăng trưởng xanh, thân thiện với môi trường."
+      ],
+      "incorrectAnswers": [
+        "Tăng cường xây dựng các khu đô thị cao cấp.",
+        "Phát triển mạnh mẽ ngành công nghiệp không gây ảnh hưởng đến môi trường.",
+        "Mở rộng diện tích đô thị mà không có kế hoạch bảo vệ môi trường."
+      ]
+    },
+    {
+      "categoryName": "Chuyên đề 5",
+      "type": "multipleResponses",
+      "question": "Theo kế hoạch phát triển đô thị thông minh Đà Lạt giai đoạn 2018 – 2025, những điểm nào được đề cao để thực hiện mục tiêu này?",
+      "correctAnswers": [
+        "Triển khai thí điểm 'làng đô thị xanh', 'nông nghiệp đô thị' kết hợp với phát triển du lịch, dịch vụ.",
+        "Xây dựng thành phố thông minh gắn kết với quy hoạch phát triển đô thị hiện đại."
+      ],
+      "incorrectAnswers": [
+        "Tập trung vào việc xây dựng các công trình công cộng lớn như trung tâm thương mại.",
+        "Loại bỏ hoàn toàn các khu vực rừng tự nhiên để mở rộng đô thị.",
+        "Phát triển các khu dân cư phía Bắc mà không kết"
+      ]
     }
   ]
 }
